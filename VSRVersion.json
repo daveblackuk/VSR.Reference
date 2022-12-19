@@ -7,7 +7,7 @@
 
 	"messages": {
 		"Latest":"No admin messages as of 19/12/2022",
-        "ReleaseNote" : "New version control, limit controller warning messages"
+        "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
 
