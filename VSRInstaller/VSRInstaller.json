@@ -1,4 +1,4 @@
-{
+[{
 	"general": {
 		"version":1,
 		"update": "20221219090000",
@@ -20,4 +20,4 @@
 	"localServerURL": "webbrowser.open_new_tab('http://localhost:1228"
 }
 
-}
+}]
