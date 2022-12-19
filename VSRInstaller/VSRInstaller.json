@@ -11,7 +11,7 @@
 
 "endpoints": {
 	"youtubeURL":"https://www.youtube.com/watch?v=dQLiLrA36kM&autoplay=1?start=68",
-	"latestVersionURL": "https://github.com/daveblackuk/VSR.Reference/raw/main/VSR-latest/vs-radio-toolbar.latest.zip&raw=true",	
+	"latestVersionURL": "https://github.com/daveblackuk/VSR.Reference/raw/main/VSR-latest/vs-radio-toolbar.latest.zip",	
 	"helpURL": "https://github.com/daveblackuk/VSR.DATA/blob/master/VSRDLLHelp.md",
 	"releaseNotesURL":"https://raw.githubusercontent.com/daveblackuk/VSR.DATA/master/release_notes.md",
 	"youtubePlayListURL":"https://www.youtube.com/playlist?list=PLPLro718J3Ka5t9TzFSH_9cL2-bKV70zh",
