@@ -1,0 +1,37 @@
+
+10/01/2023, 17:25:05 writing: working-files/vsd.txt
+10/01/2023, 17:25:05 simconnectPresent: False 
+IgnoreSimconnect: 1 
+10/01/2023, 17:25:05 Starting  VATSim load from VS servers at 2023-01-10 17:25:05.986086
+10/01/2023, 17:25:06 Finished  loading VATSim data from VS servers in 0.498966 at 2023-01-10 17:25:06.485052
+ 
+10/01/2023, 17:25:06 
+
+ **** Starting UPDATE 2023-01-10 17:25:06.508318 ****
+
+10/01/2023, 17:25:06 Starting  VATSim load from VS servers at 2023-01-10 17:25:06.509312
+10/01/2023, 17:25:06 Finished  loading VATSim data from VS servers in 0.383173 at 2023-01-10 17:25:06.892485
+ 
+10/01/2023, 17:25:06 started enroute build: 2023-01-10 17:25:06.892762
+10/01/2023, 17:25:07 name error with ABQ_16_CTR 
+10/01/2023, 17:25:07 Caution: The controller URSS_R_APP on 119.700 may be incorrectly positioned - use position with caution
+10/01/2023, 17:25:07 4
+10/01/2023, 17:25:07 False
+10/01/2023, 17:25:07 {'class': 4, 'id': 1, 'callsign': 'Caution', 'time': '17:25', 'message': 'Caution: The controller URSS_R_APP on 119.700 may be incorrectly positioned - use position with caution', 'linkText': 'Caution: The controller URSS_R_APP on 119.700 may be incorrectly positioned - use position with caution'}
+10/01/2023, 17:25:07 finished processing 31 controllers in total in 0.254358 seconds at 2023-01-10 17:25:07.147120
+
+10/01/2023, 17:25:07 started station build: 2023-01-10 17:25:07.147297
+10/01/2023, 17:25:09 finished processing 70 stations in total in 2.446316 seconds at 2023-01-10 17:25:09.593613
+
+10/01/2023, 17:25:09 
+
+ *** COMPLETED UPDATE IN 3.086165 SECONDS ****
+
+
+10/01/2023, 17:25:09 starting up on 0.0.0.0 port 1229
+10/01/2023, 17:25:09 starting send message up on 0.0.0.0 port 1230
+10/01/2023, 17:25:09 Starting  VATSim load from VS servers at 2023-01-10 17:25:09.594729
+10/01/2023, 17:25:09 10
+10/01/2023, 17:25:09 False
+10/01/2023, 17:25:09 {'class': 10, 'id': 2, 'callsign': 'SYS', 'time': '17:25', 'message': 'The VSR server has started ', 'linkText': 'The VSR server has started '}
+10/01/2023, 17:25:09 web debug: False
