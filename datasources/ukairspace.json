@@ -1,0 +1,664 @@
+{
+  "airports": [
+    {
+      "airport": "Manchester",
+      "callsign": "EGCC",
+      "group": 1
+    },
+    {
+      "airport": "Doncaster",
+      "callsign": "EGCN",
+      "group": 2
+    },
+    {
+      "airport": "Humberside",
+      "callsign": "EGNJ",
+      "group": 2
+    },
+    {
+      "airport": "Leeds",
+      "callsign": "EGNM",
+      "group": 2
+    },
+    {
+      "airport": "Newcastle",
+      "callsign": "EGNT",
+      "group": 2
+    },
+    {
+      "airport": "Teesside",
+      "callsign": "EGNV",
+      "group": 2
+    },
+    {
+      "airport": "Liverpool",
+      "callsign": "EGGP",
+      "group": 3
+    },
+    {
+      "airport": "Blackpool",
+      "callsign": "EGNH",
+      "group": 3
+    },
+    {
+      "airport": "Hawarden",
+      "callsign": "EGNR",
+      "group": 3
+    },
+    {
+      "airport": "Isle of Man",
+      "callsign": "EGNS",
+      "group": 3
+    },
+    {
+      "airport": "Norwich",
+      "callsign": "EGSH",
+      "group": 4
+    },
+    {
+      "airport": "Birmingham",
+      "callsign": "EGBB",
+      "group": 5
+    },
+    {
+      "airport": "Coventry",
+      "callsign": "EGBE",
+      "group": 5
+    },
+    {
+      "airport": "East Midlands",
+      "callsign": "EGNX",
+      "group": 5
+    },
+    {
+      "airport": "Cambridge",
+      "callsign": "EGSC",
+      "group": 6
+    },
+    {
+      "airport": "London/Stansted",
+      "callsign": "EGSS",
+      "group": 6
+    },
+    {
+      "airport": "London/Luton",
+      "callsign": "EGGW",
+      "group": 7
+    },
+    {
+      "airport": "Biggin Hill",
+      "callsign": "EGKB",
+      "group": 8
+    },
+    {
+      "airport": "London/City",
+      "callsign": "EGLC",
+      "group": 8
+    },
+    {
+      "airport": "London/Heathrow",
+      "callsign": "EGLL",
+      "group": 8
+    },
+    {
+      "airport": "Southend",
+      "callsign": "EGMC",
+      "group": 8
+    },
+    {
+      "airport": "Lydd",
+      "callsign": "EGMD",
+      "group": 8
+    },
+    {
+      "airport": "London/Gatwick",
+      "callsign": "EGKK",
+      "group": 9
+    },
+    {
+      "airport": "Farnborough",
+      "callsign": "EGLF",
+      "group": 9
+    },
+    {
+      "airport": "Bournemouth",
+      "callsign": "EGHH",
+      "group": 10
+    },
+    {
+      "airport": "Southampton",
+      "callsign": "EGHI",
+      "group": 10
+    },
+    {
+      "airport": "Gloucester",
+      "callsign": "EGBJ",
+      "group": 11
+    },
+    {
+      "airport": "Cardiff",
+      "callsign": "EGFF",
+      "group": 11
+    },
+    {
+      "airport": "Bristol",
+      "callsign": "EGGD",
+      "group": 11
+    },
+    {
+      "airport": "Newquay",
+      "callsign": "EGHQ",
+      "group": 11
+    },
+    {
+      "airport": "Channel Islands",
+      "callsign": "EGJJ/JB/JA",
+      "group": 11
+    },
+    {
+      "airport": "Exeter",
+      "callsign": "EGTE",
+      "group": 11
+    },
+    {
+      "airport": "Glasgow",
+      "callsign": "EGPF",
+      "group": 12
+    },
+    {
+      "airport": "Edinburgh",
+      "callsign": "EGPH",
+      "group": 12
+    },
+    {
+      "airport": "Prestwick",
+      "callsign": "EGPK",
+      "group": 12
+    },
+    {
+      "airport": "Belfast/Aldergrove",
+      "callsign": "EGAA",
+      "group": 13
+    },
+    {
+      "airport": "Belfast/City",
+      "callsign": "EGAC",
+      "group": 13
+    },
+    {
+      "airport": "Aberdeen/Dyce",
+      "callsign": "EGPD",
+      "group": 14
+    },
+    {
+      "airport": "Dundee",
+      "callsign": "EGPN",
+      "group": 14
+    },
+    {
+      "airport": "Kirkwall",
+      "callsign": "EGPA",
+      "group": 15
+    },
+    {
+      "airport": "Sumburgh",
+      "callsign": "EGPB",
+      "group": 15
+    },
+    {
+      "airport": "Wick",
+      "callsign": "EGPC",
+      "group": 15
+    },
+    {
+      "airport": "Inverness",
+      "callsign": "EGPE",
+      "group": 15
+    },
+    {
+      "airport": "Stornoway",
+      "callsign": "EGPO",
+      "group": 15
+    }
+  ],
+  "groups": [
+    {
+      "group": 1,
+      "priority": 1,
+      "controller": "MAN_SE_CTR",
+      "frequency": 134.425
+    },
+    {
+      "group": 1,
+      "priority": 2,
+      "controller": "MAN_E_CTR",
+      "frequency": 133.8
+    },
+    {
+      "group": 1,
+      "priority": 3,
+      "controller": "MAN_CTR",
+      "frequency": 133.2
+    },
+    {
+      "group": 1,
+      "priority": 4,
+      "controller": "LON_N_CTR",
+      "frequency": 133.7
+    },
+    {
+      "group": 1,
+      "priority": 5,
+      "controller": "LON_NW_CTR",
+      "frequency": 135.575
+    },
+    {
+      "group": 1,
+      "priority": 6,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 2,
+      "priority": 1,
+      "controller": "MAN_NE_CTR",
+      "frequency": 135.7
+    },
+    {
+      "group": 2,
+      "priority": 2,
+      "controller": "MAN_E_CTR",
+      "frequency": 133.8
+    },
+    {
+      "group": 2,
+      "priority": 3,
+      "controller": "MAN_CTR",
+      "frequency": 133.2
+    },
+    {
+      "group": 2,
+      "priority": 4,
+      "controller": "LON_NE_CTR",
+      "frequency": 128.125
+    },
+    {
+      "group": 2,
+      "priority": 5,
+      "controller": "LON_N_CTR",
+      "frequency": 133.7
+    },
+    {
+      "group": 2,
+      "priority": 6,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 3,
+      "priority": 1,
+      "controller": "MAN_W_CTR",
+      "frequency": 128.05
+    },
+    {
+      "group": 3,
+      "priority": 2,
+      "controller": "MAN_CTR",
+      "frequency": 133.2
+    },
+    {
+      "group": 3,
+      "priority": 3,
+      "controller": "LON_NW_CTR",
+      "frequency": 135.575
+    },
+    {
+      "group": 3,
+      "priority": 4,
+      "controller": "LON_N_CTR",
+      "frequency": 133.7
+    },
+    {
+      "group": 3,
+      "priority": 5,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 4,
+      "priority": 1,
+      "controller": "LON_NE_CTR",
+      "frequency": 128.125
+    },
+    {
+      "group": 4,
+      "priority": 2,
+      "controller": "LON_N_CTR",
+      "frequency": 133.7
+    },
+    {
+      "group": 4,
+      "priority": 3,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 5,
+      "priority": 1,
+      "controller": "LON_M_CTR",
+      "frequency": 120.025
+    },
+    {
+      "group": 5,
+      "priority": 2,
+      "controller": "LON_C_CTR",
+      "frequency": 127.1
+    },
+    {
+      "group": 5,
+      "priority": 3,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 5,
+      "priority": 4,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 6,
+      "priority": 1,
+      "controller": "LTC_NE_CTR",
+      "frequency": 118.825
+    },
+    {
+      "group": 6,
+      "priority": 2,
+      "controller": "LTC_N_CTR",
+      "frequency": 119.775
+    },
+    {
+      "group": 6,
+      "priority": 3,
+      "controller": "LTC_CTR",
+      "frequency": 135.8
+    },
+    {
+      "group": 6,
+      "priority": 4,
+      "controller": "LTC_E_CTR",
+      "frequency": 121.225
+    },
+    {
+      "group": 6,
+      "priority": 5,
+      "controller": "LON_E_CTR",
+      "frequency": 118.475
+    },
+    {
+      "group": 6,
+      "priority": 6,
+      "controller": "LON_C_CTR",
+      "frequency": 127.1
+    },
+    {
+      "group": 6,
+      "priority": 7,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 6,
+      "priority": 8,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 7,
+      "priority": 1,
+      "controller": "LTC_NW_CTR",
+      "frequency": 121.275
+    },
+    {
+      "group": 7,
+      "priority": 2,
+      "controller": "LTC_N_CTR",
+      "frequency": 119.775
+    },
+    {
+      "group": 7,
+      "priority": 3,
+      "controller": "LTC_CTR",
+      "frequency": 135.8
+    },
+    {
+      "group": 7,
+      "priority": 4,
+      "controller": "LON_M_CTR",
+      "frequency": 120.025
+    },
+    {
+      "group": 7,
+      "priority": 5,
+      "controller": "LON_C_CTR",
+      "frequency": 127.1
+    },
+    {
+      "group": 7,
+      "priority": 6,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 7,
+      "priority": 7,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 8,
+      "priority": 1,
+      "controller": "LTC_SE_CTR",
+      "frequency": 120.525
+    },
+    {
+      "group": 8,
+      "priority": 2,
+      "controller": "LTC_S_CTR",
+      "frequency": 134.125
+    },
+    {
+      "group": 8,
+      "priority": 3,
+      "controller": "LTC_CTR",
+      "frequency": 135.8
+    },
+    {
+      "group": 8,
+      "priority": 4,
+      "controller": "LON_D_CTR",
+      "frequency": 134.9
+    },
+    {
+      "group": 8,
+      "priority": 5,
+      "controller": "LON_S_CTR",
+      "frequency": 129.425
+    },
+    {
+      "group": 8,
+      "priority": 6,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 8,
+      "priority": 7,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 9,
+      "priority": 1,
+      "controller": "LTC_SW_CTR",
+      "frequency": 133.175
+    },
+    {
+      "group": 9,
+      "priority": 2,
+      "controller": "LTC_S_CTR",
+      "frequency": 134.125
+    },
+    {
+      "group": 9,
+      "priority": 3,
+      "controller": "LTC_CTR",
+      "frequency": 135.8
+    },
+    {
+      "group": 9,
+      "priority": 4,
+      "controller": "LON_S_CTR",
+      "frequency": 129.425
+    },
+    {
+      "group": 9,
+      "priority": 5,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 9,
+      "priority": 6,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 10,
+      "priority": 1,
+      "controller": "LON_S_CTR",
+      "frequency": 129.425
+    },
+    {
+      "group": 10,
+      "priority": 2,
+      "controller": "LON_SC_CTR",
+      "frequency": 132.6
+    },
+    {
+      "group": 10,
+      "priority": 3,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 11,
+      "priority": 1,
+      "controller": "LON_W_CTR",
+      "frequency": 126.075
+    },
+    {
+      "group": 11,
+      "priority": 2,
+      "controller": "LON_CTR",
+      "frequency": 127.825
+    },
+    {
+      "group": 12,
+      "priority": 1,
+      "controller": "STC_CTR",
+      "frequency": 126.3
+    },
+    {
+      "group": 12,
+      "priority": 2,
+      "controller": "SCO_D_CTR",
+      "frequency": 135.85
+    },
+    {
+      "group": 12,
+      "priority": 3,
+      "controller": "SCO_WD_CTR",
+      "frequency": 133.875
+    },
+    {
+      "group": 12,
+      "priority": 4,
+      "controller": "SCO_S_CTR",
+      "frequency": 134.775
+    },
+    {
+      "group": 12,
+      "priority": 5,
+      "controller": "SCO_CTR",
+      "frequency": 135.525
+    },
+    {
+      "group": 13,
+      "priority": 1,
+      "controller": "STC_A_CTR",
+      "frequency": 123.775
+    },
+    {
+      "group": 13,
+      "priority": 2,
+      "controller": "SCO_R_CTR",
+      "frequency": 129.1
+    },
+    {
+      "group": 13,
+      "priority": 3,
+      "controller": "SCO_W_CTR",
+      "frequency": 132.725
+    },
+    {
+      "group": 13,
+      "priority": 4,
+      "controller": "SCO_WD_CTR",
+      "frequency": 133.875
+    },
+    {
+      "group": 13,
+      "priority": 5,
+      "controller": "SCO_CTR",
+      "frequency": 135.525
+    },
+    {
+      "group": 14,
+      "priority": 1,
+      "controller": "SCO_S_CTR",
+      "frequency": 134.775
+    },
+    {
+      "group": 14,
+      "priority": 2,
+      "controller": "SCO_E_CTR",
+      "frequency": 121.325
+    },
+    {
+      "group": 14,
+      "priority": 3,
+      "controller": "SCO_CTR",
+      "frequency": 135.525
+    },
+    {
+      "group": 15,
+      "priority": 1,
+      "controller": "SCO_N_CTR",
+      "frequency": 129.225
+    },
+    {
+      "group": 15,
+      "priority": 2,
+      "controller": "SCO_E_CTR",
+      "frequency": 121.325
+    },
+    {
+      "group": 15,
+      "priority": 3,
+      "controller": "SCO_CTR",
+      "frequency": 135.525
+    }
+  ]
+}
