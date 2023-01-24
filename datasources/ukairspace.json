@@ -1,226 +1,276 @@
 {
-  "airports": [
-    {
-      "airport": "Manchester",
-      "callsign": "EGCC",
-      "group": 1
-    },
-    {
-      "airport": "Doncaster",
-      "callsign": "EGCN",
-      "group": 2
-    },
-    {
-      "airport": "Humberside",
-      "callsign": "EGNJ",
-      "group": 2
-    },
-    {
-      "airport": "Leeds",
-      "callsign": "EGNM",
-      "group": 2
-    },
-    {
-      "airport": "Newcastle",
-      "callsign": "EGNT",
-      "group": 2
-    },
-    {
-      "airport": "Teesside",
-      "callsign": "EGNV",
-      "group": 2
-    },
-    {
-      "airport": "Liverpool",
-      "callsign": "EGGP",
-      "group": 3
-    },
-    {
-      "airport": "Blackpool",
-      "callsign": "EGNH",
-      "group": 3
-    },
-    {
-      "airport": "Hawarden",
-      "callsign": "EGNR",
-      "group": 3
-    },
-    {
-      "airport": "Isle of Man",
-      "callsign": "EGNS",
-      "group": 3
-    },
-    {
-      "airport": "Norwich",
-      "callsign": "EGSH",
-      "group": 4
-    },
-    {
-      "airport": "Birmingham",
-      "callsign": "EGBB",
-      "group": 5
-    },
-    {
-      "airport": "Coventry",
-      "callsign": "EGBE",
-      "group": 5
-    },
-    {
-      "airport": "East Midlands",
-      "callsign": "EGNX",
-      "group": 5
-    },
-    {
-      "airport": "Cambridge",
-      "callsign": "EGSC",
-      "group": 6
-    },
-    {
-      "airport": "London/Stansted",
-      "callsign": "EGSS",
-      "group": 6
-    },
-    {
-      "airport": "London/Luton",
-      "callsign": "EGGW",
-      "group": 7
-    },
-    {
-      "airport": "Biggin Hill",
-      "callsign": "EGKB",
-      "group": 8
-    },
-    {
-      "airport": "London/City",
-      "callsign": "EGLC",
-      "group": 8
-    },
-    {
-      "airport": "London/Heathrow",
-      "callsign": "EGLL",
-      "group": 8
-    },
-    {
-      "airport": "Southend",
-      "callsign": "EGMC",
-      "group": 8
-    },
-    {
-      "airport": "Lydd",
-      "callsign": "EGMD",
-      "group": 8
-    },
-    {
-      "airport": "London/Gatwick",
-      "callsign": "EGKK",
-      "group": 9
-    },
-    {
-      "airport": "Farnborough",
-      "callsign": "EGLF",
-      "group": 9
-    },
-    {
-      "airport": "Bournemouth",
-      "callsign": "EGHH",
-      "group": 10
-    },
-    {
-      "airport": "Southampton",
-      "callsign": "EGHI",
-      "group": 10
-    },
-    {
-      "airport": "Gloucester",
-      "callsign": "EGBJ",
-      "group": 11
-    },
-    {
-      "airport": "Cardiff",
-      "callsign": "EGFF",
-      "group": 11
-    },
-    {
-      "airport": "Bristol",
-      "callsign": "EGGD",
-      "group": 11
-    },
-    {
-      "airport": "Newquay",
-      "callsign": "EGHQ",
-      "group": 11
-    },
-    {
-      "airport": "Channel Islands",
-      "callsign": "EGJJ/JB/JA",
-      "group": 11
-    },
-    {
-      "airport": "Exeter",
-      "callsign": "EGTE",
-      "group": 11
-    },
-    {
-      "airport": "Glasgow",
-      "callsign": "EGPF",
-      "group": 12
-    },
-    {
-      "airport": "Edinburgh",
-      "callsign": "EGPH",
-      "group": 12
-    },
-    {
-      "airport": "Prestwick",
-      "callsign": "EGPK",
-      "group": 12
-    },
-    {
-      "airport": "Belfast/Aldergrove",
-      "callsign": "EGAA",
-      "group": 13
-    },
-    {
-      "airport": "Belfast/City",
-      "callsign": "EGAC",
-      "group": 13
-    },
-    {
-      "airport": "Aberdeen/Dyce",
-      "callsign": "EGPD",
-      "group": 14
-    },
-    {
-      "airport": "Dundee",
-      "callsign": "EGPN",
-      "group": 14
-    },
-    {
-      "airport": "Kirkwall",
-      "callsign": "EGPA",
-      "group": 15
-    },
-    {
-      "airport": "Sumburgh",
-      "callsign": "EGPB",
-      "group": 15
-    },
-    {
-      "airport": "Wick",
-      "callsign": "EGPC",
-      "group": 15
-    },
-    {
-      "airport": "Inverness",
-      "callsign": "EGPE",
-      "group": 15
-    },
-    {
-      "airport": "Stornoway",
-      "callsign": "EGPO",
-      "group": 15
-    }
-  ],
+  "airports": 
+  
+  
+  [
+      {
+          "airport": "Aberdeen/Dyce",
+          "callsign": "EGPD",
+          "group": 14.0,
+          "approach": ""
+      },
+      {
+          "airport": "Belfast/Aldergrove",
+          "callsign": "EGAA",
+          "group": 13.0,
+          "approach": ""
+      },
+      {
+          "airport": "Belfast/City",
+          "callsign": "EGAC",
+          "group": 13.0,
+          "approach": ""
+      },
+      {
+          "airport": "Biggin Hill",
+          "callsign": "EGKB",
+          "group": 8.0,
+          "approach": "THAMES"
+      },
+      {
+          "airport": "Birmingham",
+          "callsign": "EGBB",
+          "group": 5.0,
+          "approach": ""
+      },
+      {
+          "airport": "Blackpool",
+          "callsign": "EGNH",
+          "group": 3.0,
+          "approach": ""
+      },
+      {
+          "airport": "Bournemouth",
+          "callsign": "EGHH",
+          "group": 10.0,
+          "approach": ""
+      },
+      {
+          "airport": "Bristol",
+          "callsign": "EGGD",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Cambridge",
+          "callsign": "EGSC",
+          "group": 6.0,
+          "approach": "ESSEX"
+      },
+      {
+          "airport": "Cardiff",
+          "callsign": "EGFF",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Channel Islands",
+          "callsign": "EGJJ/JB/JA",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Coventry",
+          "callsign": "EGBE",
+          "group": 5.0,
+          "approach": ""
+      },
+      {
+          "airport": "Doncaster",
+          "callsign": "EGCN",
+          "group": 2.0,
+          "approach": ""
+      },
+      {
+          "airport": "Dundee",
+          "callsign": "EGPN",
+          "group": 14.0,
+          "approach": ""
+      },
+      {
+          "airport": "East Midlands",
+          "callsign": "EGNX",
+          "group": 5.0,
+          "approach": ""
+      },
+      {
+          "airport": "Edinburgh",
+          "callsign": "EGPH",
+          "group": 12.0,
+          "approach": ""
+      },
+      {
+          "airport": "Exeter",
+          "callsign": "EGTE",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Farnborough",
+          "callsign": "EGLF",
+          "group": 9.0,
+          "approach": ""
+      },
+      {
+          "airport": "Glasgow",
+          "callsign": "EGPF",
+          "group": 12.0,
+          "approach": ""
+      },
+      {
+          "airport": "Gloucester",
+          "callsign": "EGBJ",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Hawarden",
+          "callsign": "EGNR",
+          "group": 3.0,
+          "approach": ""
+      },
+      {
+          "airport": "Humberside",
+          "callsign": "EGNJ",
+          "group": 2.0,
+          "approach": ""
+      },
+      {
+          "airport": "Inverness",
+          "callsign": "EGPE",
+          "group": 15.0,
+          "approach": ""
+      },
+      {
+          "airport": "Isle of Man",
+          "callsign": "EGNS",
+          "group": 3.0,
+          "approach": ""
+      },
+      {
+          "airport": "Kirkwall",
+          "callsign": "EGPA",
+          "group": 15.0,
+          "approach": ""
+      },
+      {
+          "airport": "Leeds",
+          "callsign": "EGNM",
+          "group": 2.0,
+          "approach": ""
+      },
+      {
+          "airport": "Liverpool",
+          "callsign": "EGGP",
+          "group": 3.0,
+          "approach": ""
+      },
+      {
+          "airport": "London/City",
+          "callsign": "EGLC",
+          "group": 8.0,
+          "approach": "THAMES"
+      },
+      {
+          "airport": "London/Gatwick",
+          "callsign": "EGKK",
+          "group": 9.0,
+          "approach": ""
+      },
+      {
+          "airport": "London/Heathrow",
+          "callsign": "EGLL",
+          "group": 8.0,
+          "approach": ""
+      },
+      {
+          "airport": "London/Luton",
+          "callsign": "EGGW",
+          "group": 7.0,
+          "approach": "ESSEX"
+      },
+      {
+          "airport": "London/Stansted",
+          "callsign": "EGSS",
+          "group": 6.0,
+          "approach": "ESSEX"
+      },
+      {
+          "airport": "Lydd",
+          "callsign": "EGMD",
+          "group": 8.0,
+          "approach": ""
+      },
+      {
+          "airport": "Manchester",
+          "callsign": "EGCC",
+          "group": 1.0,
+          "approach": ""
+      },
+      {
+          "airport": "Newcastle",
+          "callsign": "EGNT",
+          "group": 2.0,
+          "approach": ""
+      },
+      {
+          "airport": "Newquay",
+          "callsign": "EGHQ",
+          "group": 11.0,
+          "approach": ""
+      },
+      {
+          "airport": "Norwich",
+          "callsign": "EGSH",
+          "group": 4.0,
+          "approach": ""
+      },
+      {
+          "airport": "Prestwick",
+          "callsign": "EGPK",
+          "group": 12.0,
+          "approach": ""
+      },
+      {
+          "airport": "Southampton",
+          "callsign": "EGHI",
+          "group": 10.0,
+          "approach": ""
+      },
+      {
+          "airport": "Southend",
+          "callsign": "EGMC",
+          "group": 8.0,
+          "approach": "THAMES"
+      },
+      {
+          "airport": "Stornoway",
+          "callsign": "EGPO",
+          "group": 15.0,
+          "approach": ""
+      },
+      {
+          "airport": "Sumburgh",
+          "callsign": "EGPB",
+          "group": 15.0,
+          "approach": ""
+      },
+      {
+          "airport": "Teesside",
+          "callsign": "EGNV",
+          "group": 2.0,
+          "approach": ""
+      },
+      {
+          "airport": "Wick",
+          "callsign": "EGPC",
+          "group": 15.0,
+          "approach": ""
+      }
+  ]
+  
+  
+  ,
   "groups": [
     {
       "group": 1,
