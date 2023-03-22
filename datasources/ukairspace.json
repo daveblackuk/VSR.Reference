@@ -9,6 +9,7 @@
           "group": 14.0,
           "approach": ""
       },
+    
       {
           "airport": "Belfast/Aldergrove",
           "callsign": "EGAA",
@@ -183,6 +184,16 @@
           "group": 8.0,
           "approach": ""
       },
+    
+    
+       {
+          "airport": "RAF Northolt",
+          "callsign": "EGWU",
+          "group": 8.0,
+          "approach": "EGLL_N_APP"
+      }, 
+    
+    
       {
           "airport": "London/Luton",
           "callsign": "EGGW",
