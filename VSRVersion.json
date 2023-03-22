@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"No admin messages as of 10/1/2023",
+		"Latest":"21-03-23 - PLEASE NOTE SU12 has a VR font size bug - please upgrasde to at least version 0.8.1.1 to fix",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
