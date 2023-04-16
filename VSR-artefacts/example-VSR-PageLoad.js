@@ -8,7 +8,10 @@ console.log("vrMode:",window.globalVars.vrMode)
 // set zoom Level to 2.5 if in VR and 1 if not
 
 var VRZoomLevel = 2.5
-var zoomLevel = 1
+// var VRZoomLevel = configSettings.VRZoom // if you have got the user configSettings
+var zoomLevel = 1               
+// zoomLevel = configSettings.defaultZoom  // if you have got the user configSettings
+
 
 if (window.globalVars.vrMode) {
   var zoomLevel = VRZoomLevel  
