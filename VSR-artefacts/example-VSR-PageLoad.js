@@ -26,4 +26,5 @@ response.vrMode.push({
 })
 
 var iframe = document.getElementById(iframeID);   // identify iframe
-iframe.contentWindow.postMessage(response, '*');  // send iframe the zoom parameters
+iframe.contentWindow.postMessage(response, '*');  // send iframe the zoom parameters 
+// this message is sent to a zoom function in main page javascript
