@@ -1,4 +1,4 @@
-// ensure main page is loaded from server before running this script - 
+// ensure main page is loaded in iframe from server before running this script - 
 // "http://localhost:1228"    // this is the VSR server main page
 
 // check window.globalVars.vrMode to determine if in VR
