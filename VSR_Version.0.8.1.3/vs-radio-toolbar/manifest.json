@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "UNKNOWN",
+  "title": "VSR Toolbar",
+  "manufacturer": "DeltaBravoZulu",
+  "creator": "DeltaBravoZulu",
+  "package_version": "0.8.1.1",
+  "minimum_game_version": "1.31.19",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

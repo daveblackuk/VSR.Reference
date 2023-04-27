@@ -1,0 +1,334 @@
+{
+  "content": [
+    {
+      "path": "html_ui/icons/ICON_VS_TOOLBAR.svg",
+      "size": 1209,
+      "date": 132987361980000000
+    },
+    {
+      "path": "html_ui/icons/toolbar/ICON_VS_TOOLBAR.svg",
+      "size": 1209,
+      "date": 132987361980000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/COMMIT_EDITMSG",
+      "size": 22,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/config",
+      "size": 321,
+      "date": 133220508220000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/description",
+      "size": 73,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/FETCH_HEAD",
+      "size": 109,
+      "date": 133222206550000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/HEAD",
+      "size": 23,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/applypatch-msg.sample",
+      "size": 478,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/commit-msg.sample",
+      "size": 896,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/fsmonitor-watchman.sample",
+      "size": 3327,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/post-update.sample",
+      "size": 189,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-applypatch.sample",
+      "size": 424,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-commit.sample",
+      "size": 1638,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-merge-commit.sample",
+      "size": 416,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-push.sample",
+      "size": 1348,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-rebase.sample",
+      "size": 4898,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/pre-receive.sample",
+      "size": 544,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/prepare-commit-msg.sample",
+      "size": 1492,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/hooks/update.sample",
+      "size": 3610,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/index",
+      "size": 712,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/info/exclude",
+      "size": 240,
+      "date": 133220507870000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/logs/HEAD",
+      "size": 673,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/logs/refs/heads/master",
+      "size": 673,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/logs/refs/remotes/origin/master",
+      "size": 600,
+      "date": 133222199030000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/0a/8ad4c32c5cf162b4fb28629df217c21a180420",
+      "size": 527,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/1d/fc3667ce12169c2ffaed7597c651a18fdfba0f",
+      "size": 557,
+      "date": 133220804150000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/27/3754fc90e5cd0aa460ca968d76ede90c3c1bcd",
+      "size": 1528,
+      "date": 133220804150000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/64/6cdcb2e43988572f2b486ea6970e44e0a6887f",
+      "size": 2116,
+      "date": 133220692940000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/67/ee65de29e9b86fabdee298443e551f6d2b856f",
+      "size": 131,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/6c/764c28fcd039f239a4deba2c3ae0390fe31041",
+      "size": 8505,
+      "date": 133220508000000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/96/6cff518923941b3def74aa1609e1260c93ea20",
+      "size": 595,
+      "date": 133220804150000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/98/336b185726c4a33b7d8fdff59253017df137c2",
+      "size": 204,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/9e/bc7edd2a14472c9d9a4365f48285fb1eb1cc60",
+      "size": 645,
+      "date": 133220508010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/a2/68e9252a8257e30480ba5683d68e50361d025d",
+      "size": 190672,
+      "date": 133220508010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/ae/ee027427a1c95df0abae4ad3ad07ff4b06a96c",
+      "size": 203,
+      "date": 133220692940000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/b2/424c96ab9766742a164d45950b5eaba78e85f9",
+      "size": 181,
+      "date": 133220804150000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/b9/2d75900676c5f3a45f6b9d30aaadced0848d86",
+      "size": 1935,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/ba/5e0c941b31307266f4f6bcf5764c478b3fc3c2",
+      "size": 203,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/bc/823312454d03fe538f70f114673fd9b9befec4",
+      "size": 170,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/bd/b6d2515c54e76f5ca8acfe8ee89b133abbd05e",
+      "size": 582,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/c4/fbba2d2de1663d2274b01d989fe86c10f0c033",
+      "size": 203,
+      "date": 133220804150000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/cb/666620cf4ed7a744c985c724df4881e3d11a5a",
+      "size": 595,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/d0/80a96829fc9ca5c4c554819fbcf46f6b5f9be1",
+      "size": 120,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/d2/f94fb2958f3218330ad8f60af538b7ce343406",
+      "size": 583,
+      "date": 133220508020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/d8/0a29d59afe136e32eeb0a20b2f77ebce420720",
+      "size": 167,
+      "date": 133220693100000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/objects/fd/2e9d0f7da12d69879a951663b7fdbcddb89ad7",
+      "size": 1453,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/ORIG_HEAD",
+      "size": 41,
+      "date": 133222199020000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/refs/heads/master",
+      "size": 41,
+      "date": 133222199010000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/.git/refs/remotes/origin/master",
+      "size": 41,
+      "date": 133222199030000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/logo.gif",
+      "size": 249199,
+      "date": 133087422390000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/splash/headset.gif",
+      "size": 8738,
+      "date": 133088638640000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/splash/index.html",
+      "size": 1092,
+      "date": 133089111930000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/splash/logo.gif",
+      "size": 249199,
+      "date": 133088638980000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/vsr copy.html",
+      "size": 1800,
+      "date": 133098840370000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/vsr.css",
+      "size": 1582,
+      "date": 133220888470000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/vsr.html",
+      "size": 1816,
+      "date": 133220790490000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr/vsr.js",
+      "size": 4292,
+      "date": 133220868920000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/logo.gif",
+      "size": 249199,
+      "date": 133087422390000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/splash/headset.gif",
+      "size": 8738,
+      "date": 133088638640000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/splash/index.html",
+      "size": 1092,
+      "date": 133089111930000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/splash/logo.gif",
+      "size": 249199,
+      "date": 133088638980000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/vsr.css",
+      "size": 256,
+      "date": 133099754300000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/vsr.html",
+      "size": 1800,
+      "date": 133098840370000000
+    },
+    {
+      "path": "html_ui/InGamePanels/vsr copy/vsr.js",
+      "size": 6623,
+      "date": 133087654700000000
+    },
+    {
+      "path": "html_ui/Textures/Menu/toolbar/ICON_VS_TOOLBAR.svg",
+      "size": 1209,
+      "date": 132987361980000000
+    },
+    {
+      "path": "InGamePanels/vs-radio-toolbar.spb",
+      "size": 591,
+      "date": 133222207590269476
+    }
+  ]
+}
