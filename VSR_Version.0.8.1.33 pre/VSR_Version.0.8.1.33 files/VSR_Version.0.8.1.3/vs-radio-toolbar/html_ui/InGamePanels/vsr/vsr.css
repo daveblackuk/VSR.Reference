@@ -1,0 +1,73 @@
+iframe{
+  height: calc(90vh - 50px);
+  height: 90vh;
+  width: 100vw;
+  background: none;
+}
+
+html,body{
+  height:100%;
+  background: none;
+  }
+
+.panelInvisible {
+    visibility: visible;
+}
+
+/* ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+} */
+
+/** This mixin makes a single line element fit exactly on the Roboto font for easier integration. */
+ingame-ui#CustomPanel {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    height: 99vh;
+    width: 99vw;
+    background: none;
+  
+    /*border: 2px solid blue !important;*/
+  }
+  ingame-ui#CustomPanel #CustomPanelWrap {
+    display: flex;
+    flex-direction: column;
+    height: 99vh;
+    width: 99vw;
+    /*border: 2px solid red !important;*/
+    min-height: 0;
+    min-width: 0;
+    overflow:hidden;
+    align-items: stretch !important;
+    flex: 1 1 auto !important;
+
+    background: none;
+  }
+  ingame-ui#CustomPanel #CustomPanelWrap #CustomPanelIframe #VSRPanelIframe iframe {
+    flex: 1 1 auto !important;
+    border: 0;
+
+  }
+  ingame-ui#CustomPanel #MainDisplay.hidden {
+    display: none;
+  }
+  ingame-ui#CustomPanel #Footer.hidden {
+    display: none;
+  }
+  ingame-ui#CustomPanel .ingameUiContent  .ingameUiWrapper {
+    /*border: 2px solid green !important;*/
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100%;
+    width: 100%;
+    min-height: 0 !important;
+    min-width: 0 !important;
+    overflow:hidden !important;
+    align-items: stretch !important;
+    flex: 1 1 auto !important;
+    background: none;
+    border:0;
+  }
+  

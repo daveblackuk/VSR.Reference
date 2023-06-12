@@ -1,0 +1,12 @@
+/** This mixin makes a single line element fit exactly on the Roboto font for easier integration. */
+
+
+iframe {
+    width: 100%;
+    min-width: 0;
+    min-height: 650px;
+    box-sizing: border-box;
+    border: none;
+    height: 100%;
+    flex: 1 1 auto;
+}

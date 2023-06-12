@@ -1,6 +1,0 @@
-0.8.1.3	22/04/2023		Fixed 0.220 to 0.225 frequencies when controller misses last digit
-0.8.1.3	22/04/2023		removed scrollbars from outer div
-0.8.1.3	22/04/2023		fixed default radio popup menu
-0.8.1.3	19/04/2023		normalised vatsim CID from all sources, should fix traffic visbility issue
-0.8.1.3	20/03/2023		Tidied up traffic logic, added maxTrafficDistance (default 100 nm) 
-0.8.1.3	28/03/2023		Fix clock logic, now in green with absolute positioning
