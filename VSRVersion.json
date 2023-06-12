@@ -1,13 +1,13 @@
 {
 	"general": {
-		"latestVersion": "0.8.1.2",
+		"latestVersion": "0.8.1.3",
 		"update": "20221219170000",
 		"update_timestamp": "2023-03-22T00:00:00Z",
 		"maxKeyCount": 2
 	},
 
 	"messages": {
-		"Latest":"21-03-23 - PLEASE NOTE SU12 has a VR font size bug - please upgrade to at least version 0.8.1.1 to fix",
+		"Latest":"12th June, 2023 - Windows Defender showing VSR file as false positive malware. Please allow this file, has been reported to Microsoft. New release due in next 24 hours to resolve if you cannot accept false positive",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
