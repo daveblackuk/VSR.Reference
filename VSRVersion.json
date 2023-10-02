@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"12th June, 2023 - Windows Defender showing VSR file as false positive malware. Please allow this file, has been reported to Microsoft. New release due in next 24 hours to resolve if you cannot accept false positive",
+		"Latest":"If you find VSR useful then please consider donating at vsrsoftware.com/donate",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
