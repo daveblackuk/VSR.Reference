@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"If you find VSR useful then please consider donating at vsrsoftware.com/donate",
+		"Latest":"If you find VSR useful then please consider donating at\n vsrsoftware.com/donate",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
