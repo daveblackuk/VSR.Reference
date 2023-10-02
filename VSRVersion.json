@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"\n\t\tPlease consider donating at vsrsoftware.com/donate Thanks\n\t\tDiscord:\tvsrsoftware.com/discord ",
+		"Latest":"\n\t\tPlease consider donating at vsrsoftware.com/donate Thanks\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar ",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
