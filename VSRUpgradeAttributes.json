@@ -1,7 +1,8 @@
 [
     { 
      "key" : "hoppieLogon",
-     "value": "000"
+     "value": "123",
+     "replace": 1
     }
 
  ]
