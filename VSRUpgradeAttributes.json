@@ -2,5 +2,9 @@
     { 
      "key" : "hoppieLogon",
      "value": "000"
+    },
+    { 
+        "key" : "VSRTest",
+        "value": "123"
     }
  ]
