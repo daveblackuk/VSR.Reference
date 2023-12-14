@@ -1,8 +1,15 @@
 [
     { 
+        "key" : "UpgradeAttributesVersion",
+        "value": "1.0",
+        "replace": 1
+    },
+    { 
      "key" : "hoppieLogon",
      "value": "123",
-     "replace": 1
+     "replace": 0
     }
+
+ 
 
  ]
