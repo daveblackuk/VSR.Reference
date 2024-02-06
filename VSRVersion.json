@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n 1st Feb 24, aware of VR zoom issues with MSFS release - to increase fontsize in VR set the default zoom (not VR zoom) to around 4 in config; workaround in progess ",
+		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31m1st Feb 24, aware of VR zoom issues with MSFS release, VSR can no longer detect if you're in VR\nTo increase fontsize in VR set the default zoom (not VR zoom) to the same as VR Zoom in\nTools->Edit config; this is a persistent change.There is a workaround in progess ",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
