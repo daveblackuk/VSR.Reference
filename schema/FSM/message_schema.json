@@ -10,8 +10,7 @@
     "In-Reply-To": "",
     "References": [""],
     "MIME-Version": "1.0",
-    "Content-Type": "text/plain; charset=utf-8",
-    "required": [ "From", "To", "Date"]
+    "Content-Type": "text/plain; charset=utf-8"
   },
   "Metadata": {
     "OriginatingNetwork": "VATSIM",
@@ -25,13 +24,11 @@
     "Color": "#FFFF00",
     "Icon": "fa-regular fa-envelope",
     "Domain": "VATSIM",
-    "Can-Reply": 1,
-    "required": ["OriginatingNetwork" ]
+    "Can-Reply": 1
   },
   "MessageContent": {
-    "Text": "Please call me on 123.45",
-    "required": ["Text" ]
-  }
-
+    "Text": "Please call me on 123.45"
+  },
+  "required": [ "From", "To", "Date","Text","OriginatingNetwork" ]
 }
 
