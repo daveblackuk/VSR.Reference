@@ -1,0 +1,33 @@
+{
+  "Headers": {
+    "Date": "Fri, 4 Feb 2022 12:30:00 +0000",
+    "From": "LON_C@VATSIM",
+    "To": "GNGBI@VATSIM",
+    "Cc": [""],
+    "Bcc": [""],
+    "Subject": "VATSIM DIRECT MESSAGE",
+    "Message-ID": "d8f8e5e8-6363-46c8-9082-39254ac47b24",
+    "In-Reply-To": "",
+    "References": [""],
+    "MIME-Version": "1.0",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "Metadata": {
+    "OriginatingNetwork": "VATSIM",
+    "IntermediateNetwork": "VPILOT_VSR_PLUGIN",   
+    "DeliveryToServerTimestamp": 1707121700,
+    "DeliveryToClientTimestamp": 1707121800,
+    "ReadReceiptTimestamp": 1707121825,
+    "MessageClass": 1,
+    "MessageAudience": "direct",
+    "Priority": "high",
+    "Color": "#FFFF00",
+    "Icon": "fa-regular fa-envelope",
+    "Domain": "VATSIM",
+    "Can-Reply": 1
+  },
+  "MessageContent": {
+    "Text": "Please call me on 123.45"
+  },
+  "required": [ "From", "To", "Date","Text","OriginatingNetwork" ]
+}
