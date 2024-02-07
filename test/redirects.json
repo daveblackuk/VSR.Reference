@@ -1,4 +1,9 @@
 {
-    "/test": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson"
+    "/boundaries": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson",
+    "/airports": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/airports.json",
+    "/vsd": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/0fd02c828135aa3e6c679d5a681351d635930739/VATSpy.dat",
+    "/databaseURL": "https://github.com/daveblackuk/VSR/blob/main/vsd.db?raw=true",
+    "runWayURL": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/runways.json",
+    "UKAirspaceURL": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/ukairspace.json"
 
 }
