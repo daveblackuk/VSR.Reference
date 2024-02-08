@@ -36,7 +36,7 @@
     "Icon": "fa-regular fa-envelope",
     "Domain": "VATSIM",
     "Can-Reply": 1,
-    "required": ["OriginatingNetwork" ]
+    "required": ["OriginatingNetwork", "OriginatingNetworkUserIdentifier"]
   },
   "MessageContent": {
     "Text": "Please call me on 123.45",
