@@ -24,6 +24,7 @@
   },
   "Metadata": {
     "OriginatingNetwork": "VATSIM",
+    "OriginatingNetworkUserIdentifier": "daveblack@somedomain.com",
     "IntermediateNetwork": "VPILOT_VSR_PLUGIN",   
     "DeliveryToServerTimestamp": 1707121700,
     "DeliveryToClientTimestamp": 1707121800,
