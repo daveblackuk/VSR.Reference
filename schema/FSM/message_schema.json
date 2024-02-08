@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://example.com/product.schema.json",
+    "$id": "Flight-Simulator-Messenger-Data-Model",
     "title": "FSM",
     "description": "Flight sim messenger",
     "type": "object",
