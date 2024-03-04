@@ -15,5 +15,7 @@
   "vsr_metarKey_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/mk.json",
   "vsr_runway_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/runways.json",
   "vsr_uk_airspace_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/ukairspace.json",
-  "opensky_url": "https://opensky-network.org/api/states/all?lamin=57.48&lomin=21.6&lamax=59.82&lomax=28.52"
+  "opensky_url": "https://opensky-network.org/api/states/all?lamin=57.48&lomin=21.6&lamax=59.82&lomax=28.52",
+  "vatsim_ActiveTransceiversURL" : "https://data.vatsim.net/v3/transceivers-data.json",
+  "vatsim_url" : "https://data.vatsim.net/v3/vatsim-data.json"
 }
