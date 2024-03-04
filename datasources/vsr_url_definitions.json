@@ -1,0 +1,19 @@
+{
+  "vsd_url": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/0fd02c828135aa3e6c679d5a681351d635930739/VATSpy.dat",
+  "boundary_url": "https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson",
+  "simbrief_url": "https://www.simbrief.com/api/xml.fetcher.php?json=1&userid=",
+  "checkwx_position_url": "https://api.checkwx.com/station/lat/",
+  "checkwx_taf_url": "https://api.checkwx.com/taf/lat/",
+  "checkwx_metar_url": "https://api.checkwx.com/metar/",
+  "vatsim_uk_stand_url": "https://ukcp.vatsim.uk/api/stand/assignment",
+  "vatsim_uk_airfield_url": "https://ukcp.vatsim.uk/api/stand/status?airfield=",
+  "vatsim_ctaf_url": "https://my.vatsim.net/api/v2/aip/airports/",
+  "airports_url_source": "https://pkgstore.datahub.io/core/airport-codes/airport-codes_json/data/9ca22195b4c64a562a0a8be8d133e700/airport-codes_json.json",
+  "airports_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/airports.json",
+  "vsr_version_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/VSRVersion.json",
+  "vsr_database_url": "https://github.com/daveblackuk/VSR/blob/main/vsd.db?raw=true",
+  "vsr_metarKey_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/mk.json",
+  "vsr_runway_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/runways.json",
+  "vsr_uk_airspace_url": "https://raw.githubusercontent.com/daveblackuk/VSR.Reference/main/datasources/ukairspace.json",
+  "opensky_url": "https://opensky-network.org/api/states/all?lamin=57.48&lomin=21.6&lamax=59.82&lomax=28.52"
+}
