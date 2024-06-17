@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31m Emergency fix for render available on https://github.com/daveblackuk/VSR/releases/tag/VSR0.8.1.5\n Only requires VSR.EXE  ",
+		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31m Release 1.2024.06 now available at latest.vsrsoftware.com, includes ACARS PDC, VR Fixes and BATC  ",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
