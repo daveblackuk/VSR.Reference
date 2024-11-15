@@ -1,0 +1,3298 @@
+[
+    {
+        "VRP name": "BALLYMENA",
+        "Latitude": 54.86333333333334,
+        "Longitude": -6.273333333333333,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CLUNTOE (DISUSED AD)",
+        "Latitude": 54.620555555555555,
+        "Longitude": -6.533888888888889,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DIVIS",
+        "Latitude": 54.6075,
+        "Longitude": -6.009444444444444,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GLENGORMLEY M2/J4",
+        "Latitude": 54.68055555555555,
+        "Longitude": -5.9816666666666665,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LARNE",
+        "Latitude": 54.85333333333333,
+        "Longitude": -5.825277777777777,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PORTADOWN",
+        "Latitude": 54.425,
+        "Longitude": -6.447500000000001,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TOOME (DISUSED AD)",
+        "Latitude": 54.757777777777775,
+        "Longitude": -6.4944444444444445,
+        "Associated Aerodrome": "BELFAST ALDERGROVE",
+        "ICAO Code": "EGAA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "COMBER",
+        "Latitude": 54.55083333333333,
+        "Longitude": -5.745833333333334,
+        "Associated Aerodrome": "BELFAST/CITY",
+        "ICAO Code": "EGAC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GROOMSPORT",
+        "Latitude": 54.675,
+        "Longitude": -5.618055555555556,
+        "Associated Aerodrome": "BELFAST/CITY",
+        "ICAO Code": "EGAC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SAINTFIELD",
+        "Latitude": 54.46027777777778,
+        "Longitude": -5.832777777777777,
+        "Associated Aerodrome": "BELFAST/CITY",
+        "ICAO Code": "EGAC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WHITEHEAD",
+        "Latitude": 54.75277777777778,
+        "Longitude": -5.709444444444444,
+        "Associated Aerodrome": "BELFAST/CITY",
+        "ICAO Code": "EGAC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BUNCRANA PIER",
+        "Latitude": 55.126666666666665,
+        "Longitude": -7.464166666666667,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CARROWKEEL",
+        "Latitude": 55.125,
+        "Longitude": -7.195,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CLAUDY CROSSROADS",
+        "Latitude": 54.91166666666666,
+        "Longitude": -7.153333333333333,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "COLERAINE A37 BRIDGE",
+        "Latitude": 55.123333333333335,
+        "Longitude": -6.669722222222222,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "DUNGIVEN",
+        "Latitude": 54.92833333333333,
+        "Longitude": -6.925000000000001,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LETTERKENNY CATHEDRAL",
+        "Latitude": 54.95055555555556,
+        "Longitude": -7.74,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "LIFFORD BRIDGE",
+        "Latitude": 54.831388888888895,
+        "Longitude": -7.480833333333334,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "MOVILLE QUAY",
+        "Latitude": 55.186388888888885,
+        "Longitude": -7.041944444444444,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "NEW BUILDINGS",
+        "Latitude": 54.958333333333336,
+        "Longitude": -7.358333333333333,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NEWTON CUNNINGHAM",
+        "Latitude": 54.998333333333335,
+        "Longitude": -7.506666666666667,
+        "Associated Aerodrome": "LONDONDERRY/EGLINTON",
+        "ICAO Code": "EGAE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FRANKLEY RESERVOIRS",
+        "Latitude": 52.42027777777778,
+        "Longitude": -1.9986111111111111,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LICHFIELD CITY RAILWAY JUNCTION",
+        "Latitude": 52.68611111111111,
+        "Longitude": -1.798611111111111,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M40/M42 INTERCHANGE",
+        "Latitude": 52.34861111111111,
+        "Longitude": -1.8097222222222222,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M42 JUNCTION 10 (TAMWORTH)",
+        "Latitude": 52.60333333333333,
+        "Longitude": -1.6425,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M6 HILTON PARK SERVICES",
+        "Latitude": 52.64388888888889,
+        "Longitude": -2.056388888888889,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M6 JUNCTION 3 (BEDWORTH)",
+        "Latitude": 52.462500000000006,
+        "Longitude": -1.4941666666666666,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STUDLEY",
+        "Latitude": 52.26777777777777,
+        "Longitude": -1.8980555555555556,
+        "Associated Aerodrome": "BIRMINGHAM",
+        "ICAO Code": "EGBB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DRAYCOTE WATER",
+        "Latitude": 52.32611111111112,
+        "Longitude": -1.3263888888888888,
+        "Associated Aerodrome": "COVENTRY",
+        "ICAO Code": "EGBE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NUNEATON (DISUSED AD)",
+        "Latitude": 52.565,
+        "Longitude": -1.4480555555555557,
+        "Associated Aerodrome": "COVENTRY",
+        "ICAO Code": "EGBE",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "SOUTHAM",
+        "Latitude": 52.2725,
+        "Longitude": -1.3844444444444444,
+        "Associated Aerodrome": "COVENTRY",
+        "ICAO Code": "EGBE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HULTON INDUSTRIAL ESTATE",
+        "Latitude": 53.53507777777778,
+        "Longitude": -2.4512666666666667,
+        "Associated Aerodrome": "MANCHESTER BARTON",
+        "ICAO Code": "EGCB",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ALDERLEY EDGE HILL",
+        "Latitude": 53.29527777777778,
+        "Longitude": -2.2122222222222225,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BUXTON",
+        "Latitude": 53.255833333333335,
+        "Longitude": -1.9127777777777777,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CONGLETON",
+        "Latitude": 53.165,
+        "Longitude": -2.180833333333333,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DOVESTONES RESERVOIRS",
+        "Latitude": 53.5375,
+        "Longitude": -1.9700000000000002,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GLOSSOP",
+        "Latitude": 53.440555555555555,
+        "Longitude": -1.9177777777777776,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HILLTOP",
+        "Latitude": 53.34166666666667,
+        "Longitude": -2.1741666666666664,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "JODRELL BANK",
+        "Latitude": 53.23638888888889,
+        "Longitude": -2.3091666666666666,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LAMALOAD RESERVOIR",
+        "Latitude": 53.27222222222222,
+        "Longitude": -2.0425,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M56 JUNCTION 10",
+        "Latitude": 53.33444444444444,
+        "Longitude": -2.5713888888888885,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M6 SANDBACH SERVICES",
+        "Latitude": 53.13944444444444,
+        "Longitude": -2.336388888888889,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 44420
+    },
+    {
+        "VRP name": "MACCLESFIELD SOUTH",
+        "Latitude": 53.236111111111114,
+        "Longitude": -2.1347222222222224,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ROSTHERNE",
+        "Latitude": 53.35388888888889,
+        "Longitude": -2.3852777777777776,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SALE WATER PARK",
+        "Latitude": 53.43333333333333,
+        "Longitude": -2.3027777777777776,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WHALEY BRIDGE",
+        "Latitude": 53.32638888888889,
+        "Longitude": -1.9916666666666667,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WINSFORD FLASH",
+        "Latitude": 53.184999999999995,
+        "Longitude": -2.5122222222222224,
+        "Associated Aerodrome": "MANCHESTER",
+        "ICAO Code": "EGCC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HEATON INTERCHANGE",
+        "Latitude": 53.55,
+        "Longitude": -2.261111111111111,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "IRLAM BRIDGE",
+        "Latitude": 53.43888888888888,
+        "Longitude": -2.4130555555555553,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "LEIGH FLASH",
+        "Latitude": 53.48972222222222,
+        "Longitude": -2.5597222222222222,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "MIDDLEBROOK STADIUM",
+        "Latitude": 53.580555555555556,
+        "Longitude": -2.5355555555555553,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "SWINTON INTERCHANGE",
+        "Latitude": 53.52333333333333,
+        "Longitude": -2.36,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "THELWALL VIADUCT",
+        "Latitude": 53.39055555555556,
+        "Longitude": -2.5058333333333334,
+        "Associated Aerodrome": "MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "BISHOP WOOD (NORTH)",
+        "Latitude": 53.809238888888885,
+        "Longitude": -1.1586583333333333,
+        "Associated Aerodrome": "LEEDS EAST",
+        "ICAO Code": "EGCM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "NABURN MARINA",
+        "Latitude": 53.90940277777778,
+        "Longitude": -1.0896666666666666,
+        "Associated Aerodrome": "LEEDS EAST",
+        "ICAO Code": "EGCM",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TADCASTER JUNCTION",
+        "Latitude": 53.89050833333333,
+        "Longitude": -1.2349833333333333,
+        "Associated Aerodrome": "LEEDS EAST",
+        "ICAO Code": "EGCM",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A1/M18 WADWORTH INTERCHANGE",
+        "Latitude": 53.47916666666667,
+        "Longitude": -1.1483333333333332,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD",
+        "ICAO Code": "EGCN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GOOLE DOCKS",
+        "Latitude": 53.69694444444444,
+        "Longitude": -0.8777777777777778,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD",
+        "ICAO Code": "EGCN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HAXEY",
+        "Latitude": 53.49027777777778,
+        "Longitude": -0.8436111111111112,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD",
+        "ICAO Code": "EGCN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M1/M18 THURCROFT INTERCHANGE",
+        "Latitude": 53.39277777777778,
+        "Longitude": -1.2786111111111111,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD",
+        "ICAO Code": "EGCN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M18 STAINFORTH SERVICES",
+        "Latitude": 53.59138888888889,
+        "Longitude": -0.9874999999999999,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD",
+        "ICAO Code": "EGCN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A1/A57 CLUMBER INTERCHANGE",
+        "Latitude": 53.296388888888885,
+        "Longitude": -1.0322222222222222,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD, RETFORD/GAMSTON",
+        "ICAO Code": "EGCN, EGNE",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "DANESHILL LAKES",
+        "Latitude": 53.36027777777778,
+        "Longitude": -0.9352777777777778,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD, RETFORD/GAMSTON",
+        "ICAO Code": "EGCN, EGNE",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "GAINSBOROUGH",
+        "Latitude": 53.39277777777778,
+        "Longitude": -0.7708333333333334,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD, RETFORD/GAMSTON",
+        "ICAO Code": "EGCN, EGNE",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "THORSBY LAKE",
+        "Latitude": 53.227222222222224,
+        "Longitude": -1.0555555555555556,
+        "Associated Aerodrome": "DONCASTER SHEFFIELD, RETFORD/GAMSTON",
+        "ICAO Code": "EGCN, EGNE",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ELLESMERE LAKE",
+        "Latitude": 52.906388888888884,
+        "Longitude": -2.8833333333333333,
+        "Associated Aerodrome": "SLEAP",
+        "ICAO Code": "EGCV",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "MONTFORD BRIDGE (DISUSED AD)",
+        "Latitude": 52.74861111111111,
+        "Longitude": -2.843611111111111,
+        "Associated Aerodrome": "SLEAP",
+        "ICAO Code": "EGCV",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "LUSSA LOCH",
+        "Latitude": 55.510555555555555,
+        "Longitude": -5.628611111111112,
+        "Associated Aerodrome": "CAMPBELTOWN",
+        "ICAO Code": "EGEC",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "MULL OF KINTYRE LIGHTHOUSE",
+        "Latitude": 55.311388888888885,
+        "Longitude": -5.803333333333333,
+        "Associated Aerodrome": "CAMPBELTOWN",
+        "ICAO Code": "EGEC",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "SANDA",
+        "Latitude": 55.28055555555555,
+        "Longitude": -5.581388888888888,
+        "Associated Aerodrome": "CAMPBELTOWN",
+        "ICAO Code": "EGEC",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "PLADDA",
+        "Latitude": 55.42638888888889,
+        "Longitude": -5.1177777777777775,
+        "Associated Aerodrome": "CAMPBELTOWN, PRESTWICK",
+        "ICAO Code": "EGEC, EGPK",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CARDIFF DOCKS",
+        "Latitude": 51.45666666666667,
+        "Longitude": -3.1516666666666664,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "CLATWORTHY RESERVOIR",
+        "Latitude": 51.07299444444445,
+        "Longitude": -3.3692166666666665,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "FLAT HOLM LIGHTHOUSE",
+        "Latitude": 51.37555555555556,
+        "Longitude": -3.118611111111111,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "LAVERNOCK POINT",
+        "Latitude": 51.406388888888884,
+        "Longitude": -3.1705555555555556,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "LLANDEGFEDD RESERVOIR",
+        "Latitude": 51.69158888888889,
+        "Longitude": -2.9706972222222223,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "M4 JUNCTION 24",
+        "Latitude": 51.60194444444445,
+        "Longitude": -2.9255555555555555,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "M4 JUNCTION 36 (SERVICES)",
+        "Latitude": 51.532222222222224,
+        "Longitude": -3.5733333333333333,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "MINEHEAD",
+        "Latitude": 51.20583333333334,
+        "Longitude": -3.475,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "NASH POINT LIGHTHOUSE",
+        "Latitude": 51.40083333333333,
+        "Longitude": -3.552222222222222,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ST HILARY TV MAST",
+        "Latitude": 51.4575,
+        "Longitude": -3.4030555555555555,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "TAFF ELY WIND FARM",
+        "Latitude": 51.56751666666667,
+        "Longitude": -3.471027777777778,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "WATCHET HARBOUR",
+        "Latitude": 51.18195,
+        "Longitude": -3.327730555555555,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "WENVOE TV MAST",
+        "Latitude": 51.459300000000006,
+        "Longitude": -3.2815694444444445,
+        "Associated Aerodrome": "CARDIFF, ST ATHAN",
+        "ICAO Code": "EGFF, EGSY",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "BARROW TANKS RESERVOIRS",
+        "Latitude": 51.4064,
+        "Longitude": -2.6627388888888888,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BATH RACECOURSE",
+        "Latitude": 51.41706666666666,
+        "Longitude": -2.4040305555555554,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BLAGDON LAKE",
+        "Latitude": 51.33722222222222,
+        "Longitude": -2.7130555555555556,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHEDDAR RESERVOIR",
+        "Latitude": 51.27972222222222,
+        "Longitude": -2.801388888888889,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHEW VALLEY",
+        "Latitude": 51.325,
+        "Longitude": -2.595,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHIPPENHAM",
+        "Latitude": 51.46,
+        "Longitude": -2.1233333333333335,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHURCHILL",
+        "Latitude": 51.333333333333336,
+        "Longitude": -2.793333333333333,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CLEVEDON",
+        "Latitude": 51.439166666666665,
+        "Longitude": -2.851388888888889,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CLIFTON SUSPENSION BRIDGE",
+        "Latitude": 51.455000000000005,
+        "Longitude": -2.6277777777777778,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "EAST NAILSEA",
+        "Latitude": 51.43,
+        "Longitude": -2.735,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M4 JUNCTION 18",
+        "Latitude": 51.50194444444445,
+        "Longitude": -2.35,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M5 AVON BRIDGE",
+        "Latitude": 51.488905555555554,
+        "Longitude": -2.692941666666667,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M5 SEDGEMOOR SERVICES",
+        "Latitude": 51.26891944444444,
+        "Longitude": -2.921272222222222,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "RADSTOCK",
+        "Latitude": 51.29222222222222,
+        "Longitude": -2.4486111111111115,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WELLS MAST",
+        "Latitude": 51.23706666666667,
+        "Longitude": -2.6253777777777776,
+        "Associated Aerodrome": "BRISTOL",
+        "ICAO Code": "EGGD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M48 OLD SEVERN BRIDGE",
+        "Latitude": 51.611111111111114,
+        "Longitude": -2.643611111111111,
+        "Associated Aerodrome": "BRISTOL, CARDIFF, ST ATHAN",
+        "ICAO Code": "EGGD, EGFF, EGSY",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "AINTREE RACECOURSE",
+        "Latitude": 53.47666666666667,
+        "Longitude": -2.943055555555556,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FIDDLERS FERRY POWER STATION",
+        "Latitude": 53.371775,
+        "Longitude": -2.6877861111111114,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FRODSHAM HILL",
+        "Latitude": 53.28715277777778,
+        "Longitude": -2.7247972222222225,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GARSTON DOCKS",
+        "Latitude": 53.35276666666667,
+        "Longitude": -2.9067666666666665,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HALE HEAD LIGHTHOUSE",
+        "Latitude": 53.322500000000005,
+        "Longitude": -2.7944444444444443,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "HELSBY HILL",
+        "Latitude": 53.27341944444444,
+        "Longitude": -2.7632333333333334,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "JAGUAR CAR FACTORY",
+        "Latitude": 53.35351666666667,
+        "Longitude": -2.835777777777778,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KIRKBY",
+        "Latitude": 53.480000000000004,
+        "Longitude": -2.881666666666667,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M53 JUNCTION 11 (STOAK INTERCHANGE)",
+        "Latitude": 53.25083333333333,
+        "Longitude": -2.872777777777778,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "NESTON",
+        "Latitude": 53.291666666666664,
+        "Longitude": -3.0599999999999996,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "RUNCORN BRIDGE",
+        "Latitude": 53.346338888888894,
+        "Longitude": -2.7378916666666666,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SEAFORTH DOCK",
+        "Latitude": 53.46138888888889,
+        "Longitude": -3.0347222222222223,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "TARBOCK ISLAND",
+        "Latitude": 53.398294444444446,
+        "Longitude": -2.808447222222222,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TARPORLEY ROUNDABOUT",
+        "Latitude": 53.16416666666667,
+        "Longitude": -2.676111111111111,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "TARVIN ROUNDABOUT",
+        "Latitude": 53.194988888888886,
+        "Longitude": -2.7771666666666666,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "THE LIVER BUILDING (PIER HEAD)",
+        "Latitude": 53.40575833333333,
+        "Longitude": -2.995886111111111,
+        "Associated Aerodrome": "LIVERPOOL",
+        "ICAO Code": "EGGP",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BURTONWOOD SERVICES",
+        "Latitude": 53.416666666666664,
+        "Longitude": -2.6380555555555554,
+        "Associated Aerodrome": "LIVERPOOL, MANCHESTER",
+        "ICAO Code": "EGGP, EGCC",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "M56 JUNCTION 11",
+        "Latitude": 53.327222222222225,
+        "Longitude": -2.643611111111111,
+        "Associated Aerodrome": "LIVERPOOL, MANCHESTER",
+        "ICAO Code": "EGGP, EGCC",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "STRETTON (DISUSED AD)",
+        "Latitude": 53.346111111111114,
+        "Longitude": -2.526388888888889,
+        "Associated Aerodrome": "LIVERPOOL, MANCHESTER",
+        "ICAO Code": "EGGP, EGCC",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "WIGAN LAKES",
+        "Latitude": 53.52133611111111,
+        "Longitude": -2.62785,
+        "Associated Aerodrome": "LIVERPOOL, MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGGP, EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "WINTER HILL MAST",
+        "Latitude": 53.62555833333333,
+        "Longitude": -2.514927777777778,
+        "Associated Aerodrome": "LIVERPOOL, MANCHESTER, MANCHESTER BARTON",
+        "ICAO Code": "EGGP, EGCC, EGCB",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "A1(M) JUNCTION 4",
+        "Latitude": 51.77916666666667,
+        "Longitude": -0.22444444444444445,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HYDE",
+        "Latitude": 51.844166666666666,
+        "Longitude": -0.3661111111111111,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KIMPTON HALL",
+        "Latitude": 51.84583333333334,
+        "Longitude": -0.29666666666666663,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M1 JUNCTION 8",
+        "Latitude": 51.75611111111111,
+        "Longitude": -0.41611111111111115,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M1 JUNCTION 9",
+        "Latitude": 51.82027777777778,
+        "Longitude": -0.41805555555555557,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "OFFLEY",
+        "Latitude": 51.933611111111105,
+        "Longitude": -0.3416666666666667,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PIRTON",
+        "Latitude": 51.97166666666667,
+        "Longitude": -0.33166666666666667,
+        "Associated Aerodrome": "LONDON LUTON",
+        "ICAO Code": "EGGW",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PENDEEN LIGHTHOUSE",
+        "Latitude": 50.165277777777774,
+        "Longitude": -5.671944444444445,
+        "Associated Aerodrome": "LAND'S END, SCILLY ISLES/ST MARY'S",
+        "ICAO Code": "EGHC, EGHE",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "ST MARTINS HEAD",
+        "Latitude": 49.96651111111112,
+        "Longitude": -6.266127777777778,
+        "Associated Aerodrome": "SCILLY ISLES/ST MARY'S",
+        "ICAO Code": "EGHE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HENGISTBURY HEAD",
+        "Latitude": 50.71194444444445,
+        "Longitude": -1.748888888888889,
+        "Associated Aerodrome": "BOURNEMOUTH",
+        "ICAO Code": "EGHH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HURST CASTLE",
+        "Latitude": 50.70805555555556,
+        "Longitude": -1.5502777777777779,
+        "Associated Aerodrome": "BOURNEMOUTH",
+        "ICAO Code": "EGHH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SANDBANKS",
+        "Latitude": 50.68333333333333,
+        "Longitude": -1.9472222222222222,
+        "Associated Aerodrome": "BOURNEMOUTH",
+        "ICAO Code": "EGHH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STONEY CROSS (DISUSED AD)",
+        "Latitude": 50.91166666666666,
+        "Longitude": -1.6569444444444443,
+        "Associated Aerodrome": "BOURNEMOUTH",
+        "ICAO Code": "EGHH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "TARRANT RUSHTON (DISUSED AD)",
+        "Latitude": 50.85,
+        "Longitude": -2.0783333333333336,
+        "Associated Aerodrome": "BOURNEMOUTH",
+        "ICAO Code": "EGHH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "BEAULIEU (DISUSED AD)",
+        "Latitude": 50.80416666666667,
+        "Longitude": -1.5038888888888888,
+        "Associated Aerodrome": "BOURNEMOUTH, SOUTHAMPTON",
+        "ICAO Code": "EGHH, EGHI",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "NEEDLES LIGHTHOUSE",
+        "Latitude": 50.6625,
+        "Longitude": -1.591388888888889,
+        "Associated Aerodrome": "BOURNEMOUTH, SOUTHAMPTON",
+        "ICAO Code": "EGHH, EGHI",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ST CATHERINE'S POINT",
+        "Latitude": 50.57638888888889,
+        "Longitude": -1.2980555555555555,
+        "Associated Aerodrome": "BOURNEMOUTH, SOUTHAMPTON",
+        "ICAO Code": "EGHH, EGHI",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "BISHOPS WALTHAM",
+        "Latitude": 50.95472222222222,
+        "Longitude": -1.2097222222222221,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BULLINGTON CROSS",
+        "Latitude": 51.17516944444444,
+        "Longitude": -1.3393027777777777,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BUTSER HILL MAST",
+        "Latitude": 50.97666666666667,
+        "Longitude": -0.9822222222222222,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CALSHOT BEACH",
+        "Latitude": 50.8125,
+        "Longitude": -1.3108333333333333,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "COWES",
+        "Latitude": 50.76146388888889,
+        "Longitude": -1.2930916666666665,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M27 JUNCTION 2 (OWER)",
+        "Latitude": 50.94586666666666,
+        "Longitude": -1.529625,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NEW ALRESFORD",
+        "Latitude": 51.08880555555556,
+        "Longitude": -1.14975,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ROMSEY",
+        "Latitude": 50.990833333333335,
+        "Longitude": -1.4958333333333333,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SOUTHAMPTON (SAM) VOR",
+        "Latitude": 50.95525,
+        "Longitude": -1.3450555555555554,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "SPINNAKER TOWER",
+        "Latitude": 50.79555555555555,
+        "Longitude": -1.1086111111111112,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WEST MEON CROSS ROADS",
+        "Latitude": 51.03136111111111,
+        "Longitude": -1.075061111111111,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WICKHAM",
+        "Latitude": 50.90000833333333,
+        "Longitude": -1.1874444444444445,
+        "Associated Aerodrome": "SOUTHAMPTON",
+        "ICAO Code": "EGHI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ALDERNEY LIGHTHOUSE",
+        "Latitude": 49.72911944444444,
+        "Longitude": -2.1642333333333332,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "CAP DE LA HAGUE",
+        "Latitude": 49.71666666666667,
+        "Longitude": -1.9333333333333333,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "CARTERET LIGHTHOUSE",
+        "Latitude": 49.373333333333335,
+        "Longitude": -1.8066666666666666,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "CASQUETS LIGHTHOUSE",
+        "Latitude": 49.72222222222222,
+        "Longitude": -2.3769444444444443,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "CORBIERE LIGHTHOUSE",
+        "Latitude": 49.17972222222222,
+        "Longitude": -2.25,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "FORT LE MARCHANT",
+        "Latitude": 49.50888888888889,
+        "Longitude": -2.518611111111111,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "FREMONT TV MAST",
+        "Latitude": 49.251666666666665,
+        "Longitude": -2.131388888888889,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "HANOIS LIGHTHOUSE",
+        "Latitude": 49.434999999999995,
+        "Longitude": -2.7025,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "HEAUVILLE",
+        "Latitude": 49.58305555555556,
+        "Longitude": -1.8019444444444446,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "HERM ISLAND",
+        "Latitude": 49.47168611111111,
+        "Longitude": -2.4487388888888892,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "LES LANDES RACECOURSE",
+        "Latitude": 49.253055555555555,
+        "Longitude": -2.2458333333333336,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "MINQUIES",
+        "Latitude": 48.96666666666667,
+        "Longitude": -2.1333333333333333,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "NOIRMONT POINT LIGHTHOUSE",
+        "Latitude": 49.165277777777774,
+        "Longitude": -2.1680555555555556,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "POINTE DE ROZEL",
+        "Latitude": 49.48305555555556,
+        "Longitude": -1.8497222222222223,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ROCHES DOUVRES LIGHTHOUSE",
+        "Latitude": 49.10416666666667,
+        "Longitude": -2.813333333333333,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "SEYMOUR TOWER",
+        "Latitude": 49.1575,
+        "Longitude": -2.0077777777777777,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "ST GERMAIN",
+        "Latitude": 49.233333333333334,
+        "Longitude": -1.6333333333333333,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ST MARTINS POINT",
+        "Latitude": 49.42165833333333,
+        "Longitude": -2.5283166666666665,
+        "Associated Aerodrome": "GUERNSEY, JERSEY",
+        "ICAO Code": "EGJB, EGJJ",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "BRIGHTON MARINA",
+        "Latitude": 50.81083333333333,
+        "Longitude": -0.10083333333333334,
+        "Associated Aerodrome": "SHOREHAM",
+        "ICAO Code": "EGKA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LEWES INTERSECTION (A27(T)/A26)",
+        "Latitude": 50.864444444444445,
+        "Longitude": 0.024166666666666666,
+        "Associated Aerodrome": "SHOREHAM",
+        "ICAO Code": "EGKA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LITTLEHAMPTON",
+        "Latitude": 50.812777777777775,
+        "Longitude": -0.5463888888888889,
+        "Associated Aerodrome": "SHOREHAM",
+        "ICAO Code": "EGKA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WASHINGTON INTERSECTION (A24/A283)",
+        "Latitude": 50.909444444444446,
+        "Longitude": -0.4077777777777778,
+        "Associated Aerodrome": "SHOREHAM",
+        "ICAO Code": "EGKA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BILLINGSHURST",
+        "Latitude": 51.015,
+        "Longitude": -0.45,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DORKING",
+        "Latitude": 51.22694444444445,
+        "Longitude": -0.33499999999999996,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HANDCROSS",
+        "Latitude": 51.05277777777778,
+        "Longitude": -0.20222222222222222,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HAYWARDS HEATH",
+        "Latitude": 51.0075,
+        "Longitude": -0.0961111111111111,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NORTH TERMINAL",
+        "Latitude": 51.16111111111111,
+        "Longitude": -0.17868888888888887,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "SOUTHERN HANGAR",
+        "Latitude": 51.14661944444445,
+        "Longitude": -0.17285555555555554,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "TUNBRIDGE WELLS",
+        "Latitude": 51.13333333333333,
+        "Longitude": 0.265,
+        "Associated Aerodrome": "LONDON GATWICK",
+        "ICAO Code": "EGKK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A25 (GODSTONE JUNCTION)",
+        "Latitude": 51.24722222222222,
+        "Longitude": -0.06694444444444445,
+        "Associated Aerodrome": "REDHILL",
+        "ICAO Code": "EGKR",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "BUCKLAND",
+        "Latitude": 51.24,
+        "Longitude": -0.24583333333333335,
+        "Associated Aerodrome": "REDHILL",
+        "ICAO Code": "EGKR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GODSTONE RAILWAY STATION",
+        "Latitude": 51.21805555555556,
+        "Longitude": -0.051111111111111114,
+        "Associated Aerodrome": "REDHILL",
+        "ICAO Code": "EGKR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M25 JUNCTION 7/M23 JUNCTION 8",
+        "Latitude": 51.263888888888886,
+        "Longitude": -0.12805555555555556,
+        "Associated Aerodrome": "REDHILL",
+        "ICAO Code": "EGKR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ARSENAL",
+        "Latitude": 51.55498333333333,
+        "Longitude": -0.1084888888888889,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BANBURY RESERVOIR",
+        "Latitude": 51.60444444444445,
+        "Longitude": -0.034999999999999996,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BECKTON ROUNDABOUT",
+        "Latitude": 51.525277777777774,
+        "Longitude": 0.07333333333333333,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BELAIR PARK",
+        "Latitude": 51.44328611111111,
+        "Longitude": -0.08953888888888889,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BURGESS PARK",
+        "Latitude": 51.484883333333336,
+        "Longitude": -0.07954722222222221,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "KIDBROOKE FLATS",
+        "Latitude": 51.46146944444445,
+        "Longitude": 0.026855555555555556,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "M11 JUNCTION 4",
+        "Latitude": 51.59388888888889,
+        "Longitude": 0.036944444444444446,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "QEII",
+        "Latitude": 51.46514166666667,
+        "Longitude": 0.259125,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "THAMES BARRIER",
+        "Latitude": 51.49722222222222,
+        "Longitude": 0.036944444444444446,
+        "Associated Aerodrome": "LONDON CITY",
+        "ICAO Code": "EGLC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ALLY PALLY",
+        "Latitude": 51.59438611111111,
+        "Longitude": -0.12969444444444445,
+        "Associated Aerodrome": "LONDON CITY, LONDON HEATHROW",
+        "ICAO Code": "EGLC, EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BRENT RESERVOIR",
+        "Latitude": 51.56696388888889,
+        "Longitude": -0.25609166666666666,
+        "Associated Aerodrome": "LONDON CITY, LONDON HEATHROW",
+        "ICAO Code": "EGLC, EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "LONDON EYE",
+        "Latitude": 51.503477777777775,
+        "Longitude": -0.11984722222222223,
+        "Associated Aerodrome": "LONDON CITY, LONDON HEATHROW",
+        "ICAO Code": "EGLC, EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "LONDON STADIUM",
+        "Latitude": 51.53845555555555,
+        "Longitude": -0.016483333333333336,
+        "Associated Aerodrome": "LONDON CITY, LONDON HEATHROW",
+        "ICAO Code": "EGLC, EGLL",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "MAPLE CROSS",
+        "Latitude": 51.629444444444445,
+        "Longitude": -0.5041666666666667,
+        "Associated Aerodrome": "DENHAM",
+        "ICAO Code": "EGLD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ST GILES",
+        "Latitude": 51.63388888888889,
+        "Longitude": -0.5669444444444445,
+        "Associated Aerodrome": "DENHAM",
+        "ICAO Code": "EGLD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A31 TONGHAM ROUNDABOUT",
+        "Latitude": 51.22833333333333,
+        "Longitude": -0.7422222222222221,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "ALTON",
+        "Latitude": 51.151944444444446,
+        "Longitude": -0.966111111111111,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FARNHAM CASTLE",
+        "Latitude": 51.218611111111116,
+        "Longitude": -0.8022222222222223,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FLEET POND",
+        "Latitude": 51.28861111111111,
+        "Longitude": -0.8247222222222222,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FRENSHAM GREAT POND",
+        "Latitude": 51.154444444444444,
+        "Longitude": -0.7916666666666666,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HOOK RAILWAY STATION",
+        "Latitude": 51.279444444444444,
+        "Longitude": -0.9619444444444444,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "M3 JUNCTION 4",
+        "Latitude": 51.31638888888889,
+        "Longitude": -0.7569444444444444,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WORPLESDON RAILWAY STATION",
+        "Latitude": 51.28777777777778,
+        "Longitude": -0.5825,
+        "Associated Aerodrome": "FARNBOROUGH",
+        "ICAO Code": "EGLF",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "GUILDFORD RAILWAY STATION",
+        "Latitude": 51.23722222222222,
+        "Longitude": -0.5813888888888888,
+        "Associated Aerodrome": "FARNBOROUGH, LONDON GATWICK",
+        "ICAO Code": "EGLF, EGKK",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "BAGSHOT",
+        "Latitude": 51.34916666666667,
+        "Longitude": -0.6991666666666667,
+        "Associated Aerodrome": "FARNBOROUGH, LONDON HEATHROW",
+        "ICAO Code": "EGLF, EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "M3 JUNCTION 3",
+        "Latitude": 51.355850000000004,
+        "Longitude": -0.6806666666666666,
+        "Associated Aerodrome": "FARNBOROUGH, LONDON HEATHROW",
+        "ICAO Code": "EGLF, EGLL",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "ASCOT",
+        "Latitude": 51.42071388888888,
+        "Longitude": -0.6591861111111111,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BURNHAM",
+        "Latitude": 51.519013888888885,
+        "Longitude": -0.677186111111111,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BYFLEET BRIDGE",
+        "Latitude": 51.33985277777778,
+        "Longitude": -0.4851916666666667,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "GRIM'S TOWER",
+        "Latitude": 51.62290277777778,
+        "Longitude": -0.3565472222222222,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "M25 JUNCTION 13",
+        "Latitude": 51.44441388888889,
+        "Longitude": -0.5293944444444445,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "M40 JUNCTION 2",
+        "Latitude": 51.59436111111111,
+        "Longitude": -0.6275333333333334,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "WEMBLEY",
+        "Latitude": 51.55606944444444,
+        "Longitude": -0.2795611111111111,
+        "Associated Aerodrome": "LONDON HEATHROW",
+        "ICAO Code": "EGLL",
+        "Valid From": 44168
+    },
+    {
+        "VRP name": "BILLERICAY LAKE MEADOWS PARK",
+        "Latitude": 51.63333333333333,
+        "Longitude": 0.4166666666666667,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "LONDON GATEWAY PORT",
+        "Latitude": 51.50472222222222,
+        "Longitude": 0.5030555555555556,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "NORTHEY ISLAND",
+        "Latitude": 51.72222222222222,
+        "Longitude": 0.7219444444444445,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SHEERNESS DOCKS",
+        "Latitude": 51.44694444444444,
+        "Longitude": 0.7447222222222222,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "SOUTH WOODHAM FERRERS SEWAGE WORKS",
+        "Latitude": 51.64472222222222,
+        "Longitude": 0.6016666666666667,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "SOUTHEND PIER SEAWARD END",
+        "Latitude": 51.515,
+        "Longitude": 0.7219444444444445,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "SOUTHMINSTER LAKES",
+        "Latitude": 51.657777777777774,
+        "Longitude": 0.8302777777777778,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "WHITSTABLE HARBOUR",
+        "Latitude": 51.36333333333334,
+        "Longitude": 1.0266666666666666,
+        "Associated Aerodrome": "SOUTHEND",
+        "ICAO Code": "EGMC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FLEETWOOD (GOLF COURSE)",
+        "Latitude": 53.91888888888889,
+        "Longitude": -3.0452777777777778,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "INSKIP (DISUSED AD)",
+        "Latitude": 53.827222222222225,
+        "Longitude": -2.834166666666667,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M55 JUNCTION 4",
+        "Latitude": 53.79388333333333,
+        "Longitude": -2.9847944444444443,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "POULTON (RAILWAY STATION)",
+        "Latitude": 53.848333333333336,
+        "Longitude": -2.990277777777778,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ST ANNE'S PIER",
+        "Latitude": 53.749097222222225,
+        "Longitude": -3.0358638888888887,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TALL TOWER",
+        "Latitude": 53.81581944444444,
+        "Longitude": -3.0552444444444444,
+        "Associated Aerodrome": "BLACKPOOL",
+        "ICAO Code": "EGNH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M55 JUNCTION 3",
+        "Latitude": 53.80694444444444,
+        "Longitude": -2.8897222222222223,
+        "Associated Aerodrome": "BLACKPOOL, WARTON",
+        "ICAO Code": "EGNH, EGNO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "BRIGG",
+        "Latitude": 53.55333333333333,
+        "Longitude": -0.4866666666666667,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CAISTOR",
+        "Latitude": 53.49611111111111,
+        "Longitude": -0.3183333333333333,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ELSHAM WOLDS",
+        "Latitude": 53.60861111111111,
+        "Longitude": -0.4280555555555556,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "IMMINGHAM DOCKS",
+        "Latitude": 53.62833333333333,
+        "Longitude": -0.19333333333333333,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LACEBY CROSSROADS",
+        "Latitude": 53.53527777777778,
+        "Longitude": -0.18027777777777776,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NORTH TOWER HUMBER BRIDGE",
+        "Latitude": 53.71416666666667,
+        "Longitude": -0.45055555555555554,
+        "Associated Aerodrome": "HUMBERSIDE",
+        "ICAO Code": "EGNJ",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ARTHINGTON VIADUCT (ATH)",
+        "Latitude": 53.90555555555555,
+        "Longitude": -1.6011111111111112,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CHAIN BAR ROUNDABOUT (CBR)",
+        "Latitude": 53.736666666666665,
+        "Longitude": -1.726388888888889,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "DEWSBURY (DBY)",
+        "Latitude": 53.69166666666666,
+        "Longitude": -1.635,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ECCUP RESERVOIR (ECP)",
+        "Latitude": 53.87111111111111,
+        "Longitude": -1.5433333333333332,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HARROGATE (HGT) RAILWAY STATION",
+        "Latitude": 53.9925,
+        "Longitude": -1.5374999999999999,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "SALTS MILL (SML)",
+        "Latitude": 53.83861111111111,
+        "Longitude": -1.7888888888888888,
+        "Associated Aerodrome": "LEEDS BRADFORD",
+        "ICAO Code": "EGNM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "M1/A1(M) JUNCTION",
+        "Latitude": 53.814375,
+        "Longitude": -1.3403527777777777,
+        "Associated Aerodrome": "LEEDS BRADFORD, LEEDS EAST",
+        "ICAO Code": "EGNM, EGCM",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "GARSTANG MARINA",
+        "Latitude": 53.90541666666667,
+        "Longitude": -2.791722222222222,
+        "Associated Aerodrome": "WARTON",
+        "ICAO Code": "EGNO",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M6 JUNCTION 30/M61",
+        "Latitude": 53.73558333333333,
+        "Longitude": -2.6489166666666666,
+        "Associated Aerodrome": "WARTON",
+        "ICAO Code": "EGNO",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "M6 JUNCTION 32/M55",
+        "Latitude": 53.80761111111111,
+        "Longitude": -2.699666666666667,
+        "Associated Aerodrome": "WARTON",
+        "ICAO Code": "EGNO",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SOUTHPORT PIER",
+        "Latitude": 53.65530555555556,
+        "Longitude": -3.0212222222222223,
+        "Associated Aerodrome": "WARTON",
+        "ICAO Code": "EGNO",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A494/A541 MOLD TOWN ROUNDABOUT",
+        "Latitude": 53.165,
+        "Longitude": -3.125277777777778,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 45232
+    },
+    {
+        "VRP name": "BEESTON CASTLE",
+        "Latitude": 53.12833333333333,
+        "Longitude": -2.6919444444444447,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BORRAS QUARRY",
+        "Latitude": 53.06821388888889,
+        "Longitude": -2.9515861111111112,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FLINT BRIDGE",
+        "Latitude": 53.22944444444445,
+        "Longitude": -3.066666666666667,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PADESWOOD CEMENT FACTORY",
+        "Latitude": 53.154444444444444,
+        "Longitude": -3.0616666666666665,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "POINT OF AYR LIGHTHOUSE",
+        "Latitude": 53.35701111111111,
+        "Longitude": -3.3221805555555552,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "POULTON (DISUSED AD)",
+        "Latitude": 53.132222222222225,
+        "Longitude": -2.8916666666666666,
+        "Associated Aerodrome": "HAWARDEN",
+        "ICAO Code": "EGNR",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "VICARS CROSS ROUNDABOUT",
+        "Latitude": 53.19499999999999,
+        "Longitude": -2.843888888888889,
+        "Associated Aerodrome": "HAWARDEN, LIVERPOOL",
+        "ICAO Code": "EGNR, EGGP",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "DRESWICK POINT LIGHTHOUSE",
+        "Latitude": 54.055,
+        "Longitude": -4.625000000000001,
+        "Associated Aerodrome": "ISLE OF MAN",
+        "ICAO Code": "EGNS",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "LAXEY HARBOUR",
+        "Latitude": 54.22527777777778,
+        "Longitude": -4.389444444444445,
+        "Associated Aerodrome": "ISLE OF MAN",
+        "ICAO Code": "EGNS",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "PEEL CASTLE",
+        "Latitude": 54.22638888888889,
+        "Longitude": -4.698888888888889,
+        "Associated Aerodrome": "ISLE OF MAN",
+        "ICAO Code": "EGNS",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "BLAYDON",
+        "Latitude": 54.968333333333334,
+        "Longitude": -1.6936111111111112,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BLYTH WINDFARM",
+        "Latitude": 55.123333333333335,
+        "Longitude": -1.4936111111111112,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BOLAM LAKE",
+        "Latitude": 55.13138888888889,
+        "Longitude": -1.8744444444444446,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DERWENT RESERVOIR",
+        "Latitude": 54.86666666666667,
+        "Longitude": -1.9800000000000002,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DURHAM",
+        "Latitude": 54.77388888888889,
+        "Longitude": -1.5766666666666667,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HEXHAM",
+        "Latitude": 54.97083333333334,
+        "Longitude": -2.102777777777778,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MORPETH RAILWAY STATION",
+        "Latitude": 55.1625,
+        "Longitude": -1.6827777777777777,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "OUSTON (DISUSED AD)",
+        "Latitude": 55.025,
+        "Longitude": -1.8752777777777778,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STAGSHAW MASTS",
+        "Latitude": 55.03333333333333,
+        "Longitude": -2.0236111111111112,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "SUNDERLAND HARBOUR",
+        "Latitude": 54.91833333333333,
+        "Longitude": -1.3583333333333334,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TYNE BRIDGES",
+        "Latitude": 54.9675,
+        "Longitude": -1.6069444444444445,
+        "Associated Aerodrome": "NEWCASTLE",
+        "ICAO Code": "EGNT",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "A1(M) JUNCTION 57 (A66(M))",
+        "Latitude": 54.5,
+        "Longitude": -1.6266666666666667,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "HARDWICK HALL",
+        "Latitude": 54.6575,
+        "Longitude": -1.4658333333333333,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "HARTLEPOOL MARINA",
+        "Latitude": 54.69166666666666,
+        "Longitude": -1.1991666666666667,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "NORTHALLERTON",
+        "Latitude": 54.33888888888889,
+        "Longitude": -1.4319444444444445,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "REDCAR RACECOURSE",
+        "Latitude": 54.60722222222223,
+        "Longitude": -1.0641666666666667,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "STOKESLEY",
+        "Latitude": 54.469722222222224,
+        "Longitude": -1.1947222222222222,
+        "Associated Aerodrome": "TEESSIDE INTERNATIONAL",
+        "ICAO Code": "EGNV",
+        "Valid From": 44812
+    },
+    {
+        "VRP name": "BOTTESFORD (DISUSED AD)",
+        "Latitude": 52.96472222222223,
+        "Longitude": -0.7816666666666667,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "CHURCH BROUGHTON (DISUSED AD)",
+        "Latitude": 52.88611111111111,
+        "Longitude": -1.6983333333333333,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "M1 JUNCTION 22 (MARKFIELD)",
+        "Latitude": 52.69555555555555,
+        "Longitude": -1.2925,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "M42 JUNCTION 11 (MEASHAM)",
+        "Latitude": 52.68888888888888,
+        "Longitude": -1.5480555555555555,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "MELTON MOWBRAY (DISUSED AD)",
+        "Latitude": 52.739444444444445,
+        "Longitude": -0.8927777777777778,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "TROWELL (M1 SERVICE AREA)",
+        "Latitude": 52.961666666666666,
+        "Longitude": -1.2674999999999998,
+        "Associated Aerodrome": "EAST MIDLANDS",
+        "ICAO Code": "EGNX",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "FOOT",
+        "Latitude": 59.02861111111111,
+        "Longitude": -2.806388888888889,
+        "Associated Aerodrome": "KIRKWALL",
+        "ICAO Code": "EGPA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LAMB HOLM ISLAND",
+        "Latitude": 58.88722222222222,
+        "Longitude": -2.893333333333333,
+        "Associated Aerodrome": "KIRKWALL",
+        "ICAO Code": "EGPA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STROMBERRY",
+        "Latitude": 59.030277777777776,
+        "Longitude": -2.9336111111111114,
+        "Associated Aerodrome": "KIRKWALL",
+        "ICAO Code": "EGPA",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MOUSA LIGHTHOUSE",
+        "Latitude": 59.996944444444445,
+        "Longitude": -1.1575,
+        "Associated Aerodrome": "SUMBURGH",
+        "ICAO Code": "EGPB",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ST NINIANS",
+        "Latitude": 59.97277777777778,
+        "Longitude": -1.3633333333333335,
+        "Associated Aerodrome": "SUMBURGH",
+        "ICAO Code": "EGPB",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CASTLETOWN (DISUSED AD)",
+        "Latitude": 58.58527777777778,
+        "Longitude": -3.350277777777778,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "DUNCANSBY HEAD LIGHTHOUSE",
+        "Latitude": 58.64388888888889,
+        "Longitude": -3.0252777777777777,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KEISS VILLAGE",
+        "Latitude": 58.53333333333333,
+        "Longitude": -3.1233333333333335,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LOCH WATTEN",
+        "Latitude": 58.483333333333334,
+        "Longitude": -3.335,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LYBSTER VILLAGE",
+        "Latitude": 58.3,
+        "Longitude": -3.2849999999999997,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "THRUMSTER MASTS",
+        "Latitude": 58.393863083333336,
+        "Longitude": -3.1243132222222223,
+        "Associated Aerodrome": "WICK",
+        "ICAO Code": "EGPC",
+        "Valid From": 44896
+    },
+    {
+        "VRP name": "BANCHORY",
+        "Latitude": 57.05,
+        "Longitude": -2.5016666666666665,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "INSCH",
+        "Latitude": 57.34277777777778,
+        "Longitude": -2.6141666666666667,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MELDRUM TV MAST",
+        "Latitude": 57.385888888888886,
+        "Longitude": -2.400861111111111,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PETERHEAD",
+        "Latitude": 57.50694444444444,
+        "Longitude": -1.7766666666666666,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STONEHAVEN",
+        "Latitude": 56.962500000000006,
+        "Longitude": -2.21,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TURRIFF",
+        "Latitude": 57.53861111111111,
+        "Longitude": -2.46,
+        "Associated Aerodrome": "ABERDEEN/DYCE",
+        "ICAO Code": "EGPD",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BEAULY RAIL BRIDGE",
+        "Latitude": 57.476111111111116,
+        "Longitude": -4.4622222222222225,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CAWDOR CASTLE",
+        "Latitude": 57.52333333333333,
+        "Longitude": -3.9283333333333332,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "CULLODEN VIADUCT",
+        "Latitude": 57.47777777777778,
+        "Longitude": -4.0625,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "DINGWALL STADIUM",
+        "Latitude": 57.595555555555556,
+        "Longitude": -4.419166666666667,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "DORES",
+        "Latitude": 57.38194444444444,
+        "Longitude": -4.331944444444444,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DUNMAGLASS WINDFARM",
+        "Latitude": 57.242222222222225,
+        "Longitude": -4.2555555555555555,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "INVERGORDON PORT",
+        "Latitude": 57.684999999999995,
+        "Longitude": -4.173333333333334,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "KINLOSS (DISUSED AD)",
+        "Latitude": 57.649166666666666,
+        "Longitude": -3.5616666666666665,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "LOCHINDORB",
+        "Latitude": 57.40277777777778,
+        "Longitude": -3.7158333333333333,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MUNLOCHY BAY POINT",
+        "Latitude": 57.54194444444444,
+        "Longitude": -4.210833333333333,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ROSEMARKIE MAST",
+        "Latitude": 57.63388888888889,
+        "Longitude": -4.072777777777778,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "TOMATIN A9 BRIDGE",
+        "Latitude": 57.33638888888889,
+        "Longitude": -3.981388888888889,
+        "Associated Aerodrome": "INVERNESS",
+        "ICAO Code": "EGPE",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ALEXANDRIA",
+        "Latitude": 55.98888888888889,
+        "Longitude": -4.576388888888888,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ARDMORE POINT",
+        "Latitude": 55.97138888888889,
+        "Longitude": -4.699166666666667,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BAILLIESTON",
+        "Latitude": 55.85277777777778,
+        "Longitude": -4.089444444444444,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BARRHEAD",
+        "Latitude": 55.8,
+        "Longitude": -4.3916666666666675,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BISHOPTON",
+        "Latitude": 55.90222222222222,
+        "Longitude": -4.501666666666667,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DUMBARTON",
+        "Latitude": 55.94444444444444,
+        "Longitude": -4.568333333333333,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "EAST KILBRIDE",
+        "Latitude": 55.763888888888886,
+        "Longitude": -4.1722222222222225,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ERSKINE BRIDGE",
+        "Latitude": 55.92027777777778,
+        "Longitude": -4.462777777777778,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GREENOCK",
+        "Latitude": 55.947222222222216,
+        "Longitude": -4.751388888888889,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "INVERKIP POWER STATION",
+        "Latitude": 55.89833333333333,
+        "Longitude": -4.886666666666666,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KILMACOLM",
+        "Latitude": 55.894444444444446,
+        "Longitude": -4.6275,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KINGSTON BRIDGE",
+        "Latitude": 55.85611111111111,
+        "Longitude": -4.269722222222222,
+        "Associated Aerodrome": "GLASGOW",
+        "ICAO Code": "EGPF",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KILMARNOCK RAILWAY STATION",
+        "Latitude": 55.612500000000004,
+        "Longitude": -4.498333333333333,
+        "Associated Aerodrome": "GLASGOW, PRESTWICK",
+        "ICAO Code": "EGPF, EGPK",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ARTHUR'S SEAT",
+        "Latitude": 55.943888888888885,
+        "Longitude": -3.1616666666666666,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 44784
+    },
+    {
+        "VRP name": "BATHGATE RAILWAY STATION",
+        "Latitude": 55.89694444444444,
+        "Longitude": -3.636111111111111,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "COBBINSHAW RESERVOIR",
+        "Latitude": 55.80777777777777,
+        "Longitude": -3.5666666666666664,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "DALKEITH",
+        "Latitude": 55.89333333333333,
+        "Longitude": -3.0683333333333334,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FORTH ROAD BRIDGE (NORTH TOWER)",
+        "Latitude": 56.00611111111111,
+        "Longitude": -3.403888888888889,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HILLEND SKI SLOPE",
+        "Latitude": 55.888333333333335,
+        "Longitude": -3.2083333333333335,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KIRKCALDY HARBOUR",
+        "Latitude": 56.11388888888889,
+        "Longitude": -3.15,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "KIRKNEWTON",
+        "Latitude": 55.8875,
+        "Longitude": -3.4180555555555556,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LONGANNET POWER STATION",
+        "Latitude": 56.04888888888889,
+        "Longitude": -3.6824999999999997,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "M8 JUNCTION 1 (HERMISTON)",
+        "Latitude": 55.925,
+        "Longitude": -3.3119444444444444,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "M9 JUNCTION 1A (KIRKLISTON)",
+        "Latitude": 55.955000000000005,
+        "Longitude": -3.4188888888888886,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "M9 JUNCTION 2 (PHILPSTOUN)",
+        "Latitude": 55.98166666666667,
+        "Longitude": -3.5119444444444445,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "M9 JUNCTION 4 (POLMONT)",
+        "Latitude": 55.98888888888889,
+        "Longitude": -3.6833333333333336,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "M90 JUNCTION 4 (KELTY)",
+        "Latitude": 56.12972222222222,
+        "Longitude": -3.3941666666666666,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "MUSSELBURGH RACECOURSE",
+        "Latitude": 55.947222222222216,
+        "Longitude": -3.040277777777778,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PENICUIK",
+        "Latitude": 55.831944444444446,
+        "Longitude": -3.2236111111111114,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WEST LINTON GOLF COURSE",
+        "Latitude": 55.7525,
+        "Longitude": -3.378888888888889,
+        "Associated Aerodrome": "EDINBURGH",
+        "ICAO Code": "EGPH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "MULL OF OA",
+        "Latitude": 55.59166666666667,
+        "Longitude": -6.338333333333333,
+        "Associated Aerodrome": "ISLAY",
+        "ICAO Code": "EGPI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NORTH COAST",
+        "Latitude": 55.93333333333333,
+        "Longitude": -6.165,
+        "Associated Aerodrome": "ISLAY",
+        "ICAO Code": "EGPI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PORT ELLEN",
+        "Latitude": 55.63333333333333,
+        "Longitude": -6.19,
+        "Associated Aerodrome": "ISLAY",
+        "ICAO Code": "EGPI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "RHINNS POINT",
+        "Latitude": 55.67333333333333,
+        "Longitude": -6.485,
+        "Associated Aerodrome": "ISLAY",
+        "ICAO Code": "EGPI",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CULZEAN BAY",
+        "Latitude": 55.36944444444445,
+        "Longitude": -4.768055555555556,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "CUMNOCK (A70 ROUNDABOUT)",
+        "Latitude": 55.45388888888889,
+        "Longitude": -4.284166666666667,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "DALMELLINGTON (B741 ROUNDABOUT)",
+        "Latitude": 55.32333333333334,
+        "Longitude": -4.397222222222223,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "DALRYMPLE (B742 JUNCTION)",
+        "Latitude": 55.39722222222222,
+        "Longitude": -4.592499999999999,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "DOONFOOT (MILLENNIUM BRIDGE)",
+        "Latitude": 55.44027777777777,
+        "Longitude": -4.650833333333334,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "HEADS OF AYR",
+        "Latitude": 55.43277777777777,
+        "Longitude": -4.713055555555556,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "IRVINE HARBOUR",
+        "Latitude": 55.61083333333333,
+        "Longitude": -4.698611111111111,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MAUCHLINE (A76 JUNCTION)",
+        "Latitude": 55.51583333333333,
+        "Longitude": -4.379166666666666,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45204
+    },
+    {
+        "VRP name": "WEST KILBRIDE BEACH",
+        "Latitude": 55.68555555555555,
+        "Longitude": -4.868055555555556,
+        "Associated Aerodrome": "PRESTWICK",
+        "ICAO Code": "EGPK",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "LOCHMADDY PIER",
+        "Latitude": 57.596111111111114,
+        "Longitude": -7.156666666666667,
+        "Associated Aerodrome": "BENBECULA",
+        "ICAO Code": "EGPL",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "MONACH ISLANDS LIGHTHOUSE",
+        "Latitude": 57.52638888888889,
+        "Longitude": -7.694166666666667,
+        "Associated Aerodrome": "BENBECULA",
+        "ICAO Code": "EGPL",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BROUGHTY CASTLE",
+        "Latitude": 56.462500000000006,
+        "Longitude": -2.8697222222222223,
+        "Associated Aerodrome": "DUNDEE",
+        "ICAO Code": "EGPN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "ACHMORE VILLAGE",
+        "Latitude": 58.16722222222222,
+        "Longitude": -6.561944444444444,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ARNISH FABRICATION YARD",
+        "Latitude": 58.18861111111111,
+        "Longitude": -6.378055555555555,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "BUTT OF LEWIS LIGHTHOUSE",
+        "Latitude": 58.51555555555556,
+        "Longitude": -6.260833333333333,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "SCALPAY ISLAND",
+        "Latitude": 57.865833333333335,
+        "Longitude": -6.673611111111112,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "SCARP ISLAND",
+        "Latitude": 58.024166666666666,
+        "Longitude": -7.133611111111112,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "SHIANT ISLES",
+        "Latitude": 57.89277777777778,
+        "Longitude": -6.354722222222222,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "THE BRAIGHE",
+        "Latitude": 58.20611111111111,
+        "Longitude": -6.295833333333333,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "TIUMPAN HEAD LIGHTHOUSE",
+        "Latitude": 58.26083333333333,
+        "Longitude": -6.1386111111111115,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "TOLSTA BEACH",
+        "Latitude": 58.355000000000004,
+        "Longitude": -6.2,
+        "Associated Aerodrome": "STORNOWAY",
+        "ICAO Code": "EGPO",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "BALEPHETRISH BAY",
+        "Latitude": 56.52055555555555,
+        "Longitude": -6.866666666666667,
+        "Associated Aerodrome": "TIREE",
+        "ICAO Code": "EGPU",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "HYNISH BAY",
+        "Latitude": 56.48444444444444,
+        "Longitude": -6.879166666666667,
+        "Associated Aerodrome": "TIREE",
+        "ICAO Code": "EGPU",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "A140 AYLSHAM ROUNDABOUT",
+        "Latitude": 52.78444444444444,
+        "Longitude": 1.2552777777777777,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45036
+    },
+    {
+        "VRP name": "ATTLEBRIDGE (DISUSED AD)",
+        "Latitude": 52.69333333333333,
+        "Longitude": 1.1086111111111112,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "BRUNDALL MARINA",
+        "Latitude": 52.617777777777775,
+        "Longitude": 1.4333333333333333,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "COLTISHALL (DISUSED AD)",
+        "Latitude": 52.753055555555555,
+        "Longitude": 1.3552777777777778,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "HETHEL (DISUSED AD)",
+        "Latitude": 52.5625,
+        "Longitude": 1.175,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "KESWICK ROUNDABOUT",
+        "Latitude": 52.588055555555556,
+        "Longitude": 1.275,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LENWADE LAKES",
+        "Latitude": 52.718611111111116,
+        "Longitude": 1.1025,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NORFOLK SHOWGROUND",
+        "Latitude": 52.650277777777774,
+        "Longitude": 1.1852777777777779,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STOKE HOLY CROSS MASTS",
+        "Latitude": 52.575,
+        "Longitude": 1.331388888888889,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "THORPE ROUNDABOUTS",
+        "Latitude": 52.62694444444445,
+        "Longitude": 1.3783333333333334,
+        "Associated Aerodrome": "NORWICH",
+        "ICAO Code": "EGSH",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "AUDLEY END RAILWAY STATION",
+        "Latitude": 52.00416666666667,
+        "Longitude": 0.20694444444444446,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BERNERS LAKE",
+        "Latitude": 51.76372222222222,
+        "Longitude": 0.3029972222222222,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BRAINTREE",
+        "Latitude": 51.87833333333333,
+        "Longitude": 0.553888888888889,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CANFIELD A120/B1256 INTERCHANGE",
+        "Latitude": 51.87047777777778,
+        "Longitude": 0.32310277777777774,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "CHELMSFORD",
+        "Latitude": 51.733333333333334,
+        "Longitude": 0.47333333333333333,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHIPPING ONGAR A414/B184 INTERCHANGE",
+        "Latitude": 51.71265555555556,
+        "Longitude": 0.24500555555555556,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "DEBDEN (DISUSED AD)",
+        "Latitude": 51.991958333333336,
+        "Longitude": 0.2748277777777778,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 45008
+    },
+    {
+        "VRP name": "DIAMOND HANGAR (HANGAR 8)",
+        "Latitude": 51.87777777777778,
+        "Longitude": 0.23583333333333334,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "EPPING",
+        "Latitude": 51.7,
+        "Longitude": 0.11111111111111112,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HANGAR 12",
+        "Latitude": 51.885555555555555,
+        "Longitude": 0.22222222222222224,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 45316
+    },
+    {
+        "VRP name": "HAVERHILL",
+        "Latitude": 52.0825,
+        "Longitude": 0.43444444444444447,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "HAZELEND WOOD",
+        "Latitude": 51.894133333333336,
+        "Longitude": 0.1708472222222222,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NUTHAMPSTEAD AD",
+        "Latitude": 51.99,
+        "Longitude": 0.06194444444444445,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "PUCKERIDGE A10/A120 INTERCHANGE",
+        "Latitude": 51.885,
+        "Longitude": 0.0044444444444444444,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 45120
+    },
+    {
+        "VRP name": "SPRIGGS SOLAR FARM",
+        "Latitude": 51.967397222222225,
+        "Longitude": 0.369025,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WARE",
+        "Latitude": 51.81166666666666,
+        "Longitude": -0.026666666666666665,
+        "Associated Aerodrome": "LONDON STANSTED",
+        "ICAO Code": "EGSS",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STOKENCHURCH TOWER",
+        "Latitude": 51.665388888888884,
+        "Longitude": -0.9238138888888888,
+        "Associated Aerodrome": "WYCOMBE AIR PARK/BOOKER",
+        "ICAO Code": "EGTB",
+        "Valid From": 45372
+    },
+    {
+        "VRP name": "OLNEY TOWN",
+        "Latitude": 52.15333333333333,
+        "Longitude": -0.7016666666666667,
+        "Associated Aerodrome": "CRANFIELD",
+        "ICAO Code": "EGTC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "STEWARTBY BRICKWORKS",
+        "Latitude": 52.07333333333334,
+        "Longitude": -0.5175000000000001,
+        "Associated Aerodrome": "CRANFIELD",
+        "ICAO Code": "EGTC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "WOBURN TOWN",
+        "Latitude": 51.99,
+        "Longitude": -0.6191666666666666,
+        "Associated Aerodrome": "CRANFIELD",
+        "ICAO Code": "EGTC",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "AXMINSTER",
+        "Latitude": 50.781666666666666,
+        "Longitude": -2.9983333333333335,
+        "Associated Aerodrome": "EXETER",
+        "ICAO Code": "EGTE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CREDITON",
+        "Latitude": 50.79055555555556,
+        "Longitude": -3.651388888888889,
+        "Associated Aerodrome": "EXETER",
+        "ICAO Code": "EGTE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CULLOMPTON",
+        "Latitude": 50.85777777777778,
+        "Longitude": -3.3938888888888887,
+        "Associated Aerodrome": "EXETER",
+        "ICAO Code": "EGTE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "EXMOUTH",
+        "Latitude": 50.624722222222225,
+        "Longitude": -3.402222222222222,
+        "Associated Aerodrome": "EXETER",
+        "ICAO Code": "EGTE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "TOPSHAM",
+        "Latitude": 50.689722222222215,
+        "Longitude": -3.480277777777778,
+        "Associated Aerodrome": "EXETER",
+        "ICAO Code": "EGTE",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CANAL BEND",
+        "Latitude": 51.650555555555556,
+        "Longitude": -0.42694444444444446,
+        "Associated Aerodrome": "ELSTREE",
+        "ICAO Code": "EGTR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "GOLF COURSE",
+        "Latitude": 51.666666666666664,
+        "Longitude": -0.21555555555555556,
+        "Associated Aerodrome": "ELSTREE",
+        "ICAO Code": "EGTR",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BAMPTON",
+        "Latitude": 51.725,
+        "Longitude": -1.5466666666666666,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "BURFORD",
+        "Latitude": 51.806666666666665,
+        "Longitude": -1.6366666666666667,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "CHARLBURY",
+        "Latitude": 51.87166666666667,
+        "Longitude": -1.4816666666666667,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FARINGDON",
+        "Latitude": 51.655,
+        "Longitude": -1.586666666666667,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "FARMOOR RESERVOIR",
+        "Latitude": 51.75333333333333,
+        "Longitude": -1.3566666666666667,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "LECHLADE",
+        "Latitude": 51.69333333333333,
+        "Longitude": -1.69,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    },
+    {
+        "VRP name": "NORTHLEACH ROUNDABOUT",
+        "Latitude": 51.837500000000006,
+        "Longitude": -1.8358333333333334,
+        "Associated Aerodrome": "BRIZE NORTON (ENR 2.1)",
+        "ICAO Code": "EGVN",
+        "Valid From": 43972
+    }
+]
