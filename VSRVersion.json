@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31m Release 0.2024.11 public Alpha now available at alpha.vsrsoftware.com, includes CPDLC, SayIntentions.AI integration, VATSIM/vPilot Logon/Logoff ",
+		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31m Release 0.2024.11 public Alpha now available at alpha.vsrsoftware.com,\nincludes CPDLC,\nSayIntentions.AI integration, VATSIM/vPilot Logon/Logoff ",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
