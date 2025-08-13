@@ -7,7 +7,7 @@
 	},
 
 	"messages": {
-		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\n\n\u001b[31mRelease 0.2025.01.11 alpha.vsrsoftware.com\nIMPORTANT: Please ensure you download latest version if you see error ",
+		"Latest":"\u001b[32m\n\t\tDonations:\tvsrsoftware.com/donate (thanks)\n\t\tDiscord:\tvsrsoftware.com/discord\n\t\tTwitter:\ttwitter.com/vsrtoolbar\n\nIMPORTANT: Please ensure you download latest version if you see error ",
         "ReleaseNote" : "New version control, limit controller warning messages, map style persisted"
 	}
 
